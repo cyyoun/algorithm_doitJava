@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q003_구간 합 구하기_11659">
-      <change afterPath="$PROJECT_DIR$/src/no003_11659.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no004_11660.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q004_구간 합 구하기2_11660">
+      <change afterPath="$PROJECT_DIR$/src/no005_10986.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683531299774</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Q004_구간 합 구하기2_11660">
+      <created>1683547899421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683547899421</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +95,7 @@
     <MESSAGE value="Q001_숫자의 합 구하기_11720" />
     <MESSAGE value="Q002_평균 구하기_1546" />
     <MESSAGE value="Q003_구간 합 구하기_11659" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q003_구간 합 구하기_11659" />
+    <MESSAGE value="Q004_구간 합 구하기2_11660" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q004_구간 합 구하기2_11660" />
   </component>
 </project>
