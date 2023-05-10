@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q009_DNA비밀번호_12891">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q011_스택수열_1874">
+      <change afterPath="$PROJECT_DIR$/src/no011_1874.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no009_12891.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no009_12891.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683695825379</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Q009_DNA비밀번호_12891_Retry">
+      <created>1683700933590</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683700933590</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +143,8 @@
     <MESSAGE value="Q007_주몽_1940" />
     <MESSAGE value="Q008_좋은수_1253" />
     <MESSAGE value="Q009_DNA비밀번호_12891" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q009_DNA비밀번호_12891" />
+    <MESSAGE value="Q009_DNA비밀번호_12891_Retry" />
+    <MESSAGE value="Q011_스택수열_1874" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q011_스택수열_1874" />
   </component>
 </project>
