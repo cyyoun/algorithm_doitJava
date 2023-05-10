@@ -14,39 +14,58 @@ public class no009_12891 {
         String dna = bufferedReader.readLine();
 
         stringTokenizer = new StringTokenizer(bufferedReader.readLine());
-        int pwA = Integer.parseInt(stringTokenizer.nextToken());
-        int pwC = Integer.parseInt(stringTokenizer.nextToken());
-        int pwG = Integer.parseInt(stringTokenizer.nextToken());
-        int pwT = Integer.parseInt(stringTokenizer.nextToken());
 
+        int[] cc = new int[4];
+        for (int i = 0 ; i < 4; i++) {
+            cc[i] = Integer.parseInt(stringTokenizer.nextToken());
+        }
+
+        int[] c = new int[4];
+        char[] pw = dna.toCharArray();
         int cnt = 0;
-        for (int i = 0; i < (S - P + 1);  i++) {
-            int k = 0;
-            int cntA = 0, cntC = 0, cntG = 0, cntT = 0;
-            char[] pw = dna.substring(i, i + P).toCharArray();
+        int a = 0;
+        for (int i = 0; i < S; i++) {
+            char item = pw[i];
+            switch (item) {
+                case 'A' :
+                    c[0]++;
+                    break;
+                case 'C' :
+                    c[1]++;
+                    break;
+                case 'G' :
+                    c[2]++;
+                    break;
+                case 'T' :
+                    c[3]++;
+                    break;
+                default:
+            }
 
-            while (k < P ) {
-                char item = pw[k];
-                switch (item) {
+            if (i - a + 1 == P) {
+                int chk = 0;
+                for (int j = 0; j < 4; j++)
+                    if (c[j] >= cc[j]) chk++;
+                if (chk == 4) cnt++;
+
+                char itemA = pw[a];
+                switch (itemA) {
                     case 'A' :
-                        cntA++;
+                        c[0]--;
                         break;
                     case 'C' :
-                        cntC++;
+                        c[1]--;
                         break;
                     case 'G' :
-                        cntG++;
+                        c[2]--;
                         break;
                     case 'T' :
-                        cntT++;
+                        c[3]--;
                         break;
                     default:
+
                 }
-                if (cntA == pwA && cntC == pwC && cntG == pwG && cntT == pwT) {
-                    cnt++;
-                    break;
-                }
-                k++;
+                a++;
             }
         }
         System.out.println(cnt);
