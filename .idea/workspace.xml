@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q011_스택수열_1874">
-      <change afterPath="$PROJECT_DIR$/src/no012_17298.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q014_절댓값힘_11286">
+      <change afterPath="$PROJECT_DIR$/src/no013_2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/no014_11286.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no012_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no012_17298.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683709613326</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Q012_오큰수_17298">
+      <created>1683719394750</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683719394750</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +161,8 @@
     <MESSAGE value="Q009_DNA비밀번호_12891" />
     <MESSAGE value="Q009_DNA비밀번호_12891_Retry" />
     <MESSAGE value="Q011_스택수열_1874" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q011_스택수열_1874" />
+    <MESSAGE value="Q012_오큰수_17298" />
+    <MESSAGE value="Q014_절댓값힘_11286" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q014_절댓값힘_11286" />
   </component>
 </project>
