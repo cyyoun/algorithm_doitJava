@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q016_버블소트_1377">
-      <change afterPath="$PROJECT_DIR$/src/no017_1427.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q017_소트인사이드_1427">
+      <change afterPath="$PROJECT_DIR$/src/no018_11399.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="no018_11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no018_11399" />
+      <module name="algorithm_doitJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.no018_11399" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -153,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683904118914</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Q017_소트인사이드_1427">
+      <created>1683905604916</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683905604916</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +205,7 @@
     <MESSAGE value="Q014_절댓값힘_11286" />
     <MESSAGE value="Q015_수정렬하기_2750" />
     <MESSAGE value="Q016_버블소트_1377" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q016_버블소트_1377" />
+    <MESSAGE value="Q017_소트인사이드_1427" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q017_소트인사이드_1427" />
   </component>
 </project>
