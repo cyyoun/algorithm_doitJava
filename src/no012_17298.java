@@ -1,6 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Stack;
 import java.util.StringTokenizer;
 
 public class no012_17298 {
@@ -9,35 +10,29 @@ public class no012_17298 {
         int N = Integer.parseInt(bufferedReader.readLine());
 
         StringTokenizer st = new StringTokenizer(bufferedReader.readLine());
+        Stack<Integer> stack = new Stack<>();
         int[] A = new int[N];
 
-        for (int i = 0; i < N; i++)
-            A[i] = Integer.parseInt(st.nextToken());
-
-        StringBuffer bf = new StringBuffer();
         for (int i = 0; i < N; i++) {
-            int a = A[i];
-            int j = i + 1;
-            if (j == N) {
-                bf.append(-1).append(" ");
-                break;
-            }
-            int b = A[j];
-
-            while (j < N) {
-                if (a < b) {
-                    bf.append(b).append(" ");
-                    break;
-                } else {
-                    j++;
-                    if (j == N) {
-                        bf.append(-1).append(" ");
-                        break;
-                    }
-                    b = A[j];
-                }
-            }
+            A[i] = Integer.parseInt(st.nextToken());
         }
-        System.out.println(bf);
+
+        for(int i = 0; i < A.length; i++) {
+
+            while(!stack.empty() && A[stack.peek()] < A[i]) {
+                A[stack.pop()] = A[i];
+            }
+
+            stack.push(i);
+        }
+
+        while(!stack.isEmpty()) {
+            A[stack.pop()] = -1;
+        }
+        StringBuffer sb = new StringBuffer();
+        for (int i = 0; i < A.length; i++) {
+            sb.append(A[i]).append(' ');
+        }
+        System.out.println(sb);
     }
 }
