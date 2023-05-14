@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q020_수정렬하기2_2751">
-      <change afterPath="$PROJECT_DIR$/src/no022_10989.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q022_수정렬하기3_10989">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no012_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no012_17298.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no016_1377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no016_1377.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684050344855</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Q022_수정렬하기3_10989">
+      <created>1684050852840</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684050852840</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +240,8 @@
     <MESSAGE value="Q018_ATM_11399" />
     <MESSAGE value="Q019_k번째수_11004" />
     <MESSAGE value="Q020_수정렬하기2_2751" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q020_수정렬하기2_2751" />
+    <MESSAGE value="Q022_수정렬하기3_10989" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q022_수정렬하기3_10989" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

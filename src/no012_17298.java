@@ -19,25 +19,25 @@ public class no012_17298 {
             int a = A[i];
             int j = i + 1;
             if (j == N) {
-                bf.append(-1+" ");
+                bf.append(-1).append(" ");
                 break;
             }
             int b = A[j];
 
             while (j < N) {
                 if (a < b) {
-                    bf.append(b + " ");
+                    bf.append(b).append(" ");
                     break;
                 } else {
                     j++;
                     if (j == N) {
-                        bf.append(-1 + " ");
+                        bf.append(-1).append(" ");
                         break;
                     }
                     b = A[j];
                 }
             }
         }
-        System.out.println(bf.toString().trim());
+        System.out.println(bf);
     }
 }
