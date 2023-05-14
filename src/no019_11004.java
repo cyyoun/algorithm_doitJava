@@ -25,8 +25,8 @@ public class no019_11004 {
         Arrays.sort(arr);
 
         for (int i = 0; i < N; i++) {
-            if ((i + 1) == K) {
-                System.out.println(arr[i]);
+            if (arr[i] == K) {
+                System.out.println(i + 1);
                 break;
             }
         }

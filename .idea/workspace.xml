@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q018_ATM_11399">
-      <change afterPath="$PROJECT_DIR$/src/no019_11004.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q019_k번째수_11004">
+      <change afterPath="$PROJECT_DIR$/src/no020_2751.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no019_11004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no019_11004.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683937732006</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Q019_k번째수_11004">
+      <created>1684041125085</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684041125085</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +224,8 @@
     <MESSAGE value="Q016_버블소트_1377" />
     <MESSAGE value="Q017_소트인사이드_1427" />
     <MESSAGE value="Q018_ATM_11399" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q018_ATM_11399" />
+    <MESSAGE value="Q019_k번째수_11004" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q019_k번째수_11004" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
