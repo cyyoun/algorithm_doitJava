@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q012_오큰수_17298_Retry">
-      <change afterPath="$PROJECT_DIR$/src/no023_11724.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q023_연결요소의개수_11724">
+      <change afterPath="$PROJECT_DIR$/src/no024_2023.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no023_11724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no023_11724.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/study/algorithm_doitJava",
+    "last_opened_file_path": "D:/study/Algorithm_Baekjoon",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -218,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684053194059</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Q023_연결요소의개수_11724">
+      <created>1684135223146</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684135223146</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +264,8 @@
     <MESSAGE value="Q022_수정렬하기3_10989" />
     <MESSAGE value="Q016_버블소트_1377_Retry" />
     <MESSAGE value="Q012_오큰수_17298_Retry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q012_오큰수_17298_Retry" />
+    <MESSAGE value="Q023_연결요소의개수_11724" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q023_연결요소의개수_11724" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

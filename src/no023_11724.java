@@ -29,10 +29,12 @@ public class no023_11724 {
             A[b].add(a);
         }
         int cnt = 0;
+
+
         for (int i = 1; i < N + 1; i++) {
             if (!visited[i]) {
                 cnt++;
-                DFS(i);
+                DFS(i); //재귀
             }
         }
         System.out.println(cnt);
