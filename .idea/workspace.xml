@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q016_버블소트_1377_Retry">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q012_오큰수_17298_Retry">
+      <change afterPath="$PROJECT_DIR$/src/no023_11724.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no012_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no012_17298.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684052320641</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Q012_오큰수_17298_Retry">
+      <created>1684053194059</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684053194059</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +255,8 @@
     <MESSAGE value="Q020_수정렬하기2_2751" />
     <MESSAGE value="Q022_수정렬하기3_10989" />
     <MESSAGE value="Q016_버블소트_1377_Retry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q016_버블소트_1377_Retry" />
+    <MESSAGE value="Q012_오큰수_17298_Retry" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q012_오큰수_17298_Retry" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
