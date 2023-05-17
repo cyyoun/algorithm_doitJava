@@ -43,7 +43,7 @@ public class no027_2178 {
             for (int k = 0; k < 4; k++) {
                 int x = now[0] + dx[k];
                 int y = now[1] + dy[k];
-                if ( x >= 0 && y >= 00 && x < n && y < m) {
+                if ( x >= 0 && y >= 0 && x < n && y < m) {
                     if (A[x][y] != 0 && !visited[x][y]) {
                         visited[x][y] = true;
                         A[x][y] = A[now[0]][now[1]] + 1;
