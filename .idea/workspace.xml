@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q029_수찾기_1920">
-      <change afterPath="$PROJECT_DIR$/src/no030_2343.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q030_블루레이_2343">
+      <change afterPath="$PROJECT_DIR$/src/no031_1300.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684379865931</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Q030_블루레이_2343">
+      <created>1684391306296</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1684391306296</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +277,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q004_구간 합 구하기2_11660" />
     <MESSAGE value="Q005_나머지 합 구하기_10986" />
     <MESSAGE value="Q006_연속된자연수의합_2018" />
     <MESSAGE value="Q007_주몽_1940" />
@@ -295,7 +301,8 @@
     <MESSAGE value="Q026_DFS와BFS_1260" />
     <MESSAGE value="Q027_미로탐색_2178" />
     <MESSAGE value="Q029_수찾기_1920" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q029_수찾기_1920" />
+    <MESSAGE value="Q030_블루레이_2343" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q030_블루레이_2343" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
