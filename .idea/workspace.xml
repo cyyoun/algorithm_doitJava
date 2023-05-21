@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q039_소수팰린드롬_1747">
-      <change afterPath="$PROJECT_DIR$/src/no040_1016.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q040_제곱이아닌수_1016">
+      <change afterPath="$PROJECT_DIR$/src/no042_1934.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -328,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684658510126</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Q040_제곱이아닌수_1016">
+      <created>1684659301503</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1684659301503</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +350,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q015_수정렬하기_2750" />
     <MESSAGE value="Q016_버블소트_1377" />
     <MESSAGE value="Q017_소트인사이드_1427" />
     <MESSAGE value="Q018_ATM_11399" />
@@ -368,7 +374,8 @@
     <MESSAGE value="Q037_소수구하기_1929" />
     <MESSAGE value="Q038_거의소수_1456" />
     <MESSAGE value="Q039_소수팰린드롬_1747" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q039_소수팰린드롬_1747" />
+    <MESSAGE value="Q040_제곱이아닌수_1016" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q040_제곱이아닌수_1016" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
