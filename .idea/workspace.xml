@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q043_최대공약수_1850">
-      <change afterPath="$PROJECT_DIR$/src/no047_1325.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q047_효율적인해킹_1325">
+      <change afterPath="$PROJECT_DIR$/src/no048_1707.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.no048_1707">
     <configuration name="no018_11399" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="no018_11399" />
       <module name="algorithm_doitJava" />
@@ -52,6 +52,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="no048_1707" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no048_1707" />
+      <module name="algorithm_doitJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.no048_1707" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -349,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684660560928</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Q047_효율적인해킹_1325">
+      <created>1684917598194</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1684917598194</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +383,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q018_ATM_11399" />
     <MESSAGE value="Q019_k번째수_11004" />
     <MESSAGE value="Q020_수정렬하기2_2751" />
     <MESSAGE value="Q022_수정렬하기3_10989" />
@@ -389,7 +407,8 @@
     <MESSAGE value="Q040_제곱이아닌수_1016" />
     <MESSAGE value="Q042_최소공배수_1934" />
     <MESSAGE value="Q043_최대공약수_1850" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q043_최대공약수_1850" />
+    <MESSAGE value="Q047_효율적인해킹_1325" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q047_효율적인해킹_1325" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
