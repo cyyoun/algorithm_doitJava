@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q048_이분그래프_1707">
-      <change afterPath="$PROJECT_DIR$/src/no050_1717.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q050_집합표현하기_1717">
+      <change afterPath="$PROJECT_DIR$/src/no051_1976.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.no048_1707">
+  <component name="RunManager">
     <configuration name="no018_11399" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="no018_11399" />
       <module name="algorithm_doitJava" />
@@ -375,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684934071334</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Q050_집합표현하기_1717">
+      <created>1684989185627</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1684989185627</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +397,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q020_수정렬하기2_2751" />
     <MESSAGE value="Q022_수정렬하기3_10989" />
     <MESSAGE value="Q016_버블소트_1377_Retry" />
     <MESSAGE value="Q012_오큰수_17298_Retry" />
@@ -415,7 +421,8 @@
     <MESSAGE value="Q043_최대공약수_1850" />
     <MESSAGE value="Q047_효율적인해킹_1325" />
     <MESSAGE value="Q048_이분그래프_1707" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q048_이분그래프_1707" />
+    <MESSAGE value="Q050_집합표현하기_1717" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q050_집합표현하기_1717" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
