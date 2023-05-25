@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q047_효율적인해킹_1325">
-      <change afterPath="$PROJECT_DIR$/src/no048_1707.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q048_이분그래프_1707">
+      <change afterPath="$PROJECT_DIR$/src/no050_1717.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -368,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684917598194</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Q048_이분그래프_1707">
+      <created>1684934071334</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1684934071334</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q019_k번째수_11004" />
     <MESSAGE value="Q020_수정렬하기2_2751" />
     <MESSAGE value="Q022_수정렬하기3_10989" />
     <MESSAGE value="Q016_버블소트_1377_Retry" />
@@ -408,7 +414,8 @@
     <MESSAGE value="Q042_최소공배수_1934" />
     <MESSAGE value="Q043_최대공약수_1850" />
     <MESSAGE value="Q047_효율적인해킹_1325" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q047_효율적인해킹_1325" />
+    <MESSAGE value="Q048_이분그래프_1707" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q048_이분그래프_1707" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
