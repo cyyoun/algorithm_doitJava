@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q051_여행가자_1976">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q052_거짓말_1043">
+      <change afterPath="$PROJECT_DIR$/src/no053_2252.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.no018_11399">
+  <component name="RunManager">
     <configuration name="no018_11399" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="no018_11399" />
       <module name="algorithm_doitJava" />
@@ -388,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684995635738</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Q052_거짓말_1043">
+      <created>1685010452992</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1685010452992</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q016_버블소트_1377_Retry" />
     <MESSAGE value="Q012_오큰수_17298_Retry" />
     <MESSAGE value="Q023_연결요소의개수_11724" />
     <MESSAGE value="Q024_신기한소수_2023" />
@@ -428,7 +435,8 @@
     <MESSAGE value="Q048_이분그래프_1707" />
     <MESSAGE value="Q050_집합표현하기_1717" />
     <MESSAGE value="Q051_여행가자_1976" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q051_여행가자_1976" />
+    <MESSAGE value="Q052_거짓말_1043" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q052_거짓말_1043" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
