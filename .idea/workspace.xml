@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q052_거짓말_1043">
-      <change afterPath="$PROJECT_DIR$/src/no053_2252.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q053_줄세우기_2252">
+      <change afterPath="$PROJECT_DIR$/src/no054_1516.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -396,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685010452992</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Q053_줄세우기_2252">
+      <created>1685075801097</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1685075801097</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q012_오큰수_17298_Retry" />
     <MESSAGE value="Q023_연결요소의개수_11724" />
     <MESSAGE value="Q024_신기한소수_2023" />
     <MESSAGE value="Q025_ABCDE_13023" />
@@ -436,7 +442,8 @@
     <MESSAGE value="Q050_집합표현하기_1717" />
     <MESSAGE value="Q051_여행가자_1976" />
     <MESSAGE value="Q052_거짓말_1043" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q052_거짓말_1043" />
+    <MESSAGE value="Q053_줄세우기_2252" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q053_줄세우기_2252" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
