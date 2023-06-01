@@ -4,62 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q064_최소신장트리_1197">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no066_1414.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no067_11725.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q067_트리부모찾기_11725">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no001_11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no001_11720.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no002_1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no002_1546.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no003_11659.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no003_11659.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no004_11660.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no004_11660.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no005_10986.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no005_10986.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no006_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no006_2018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no007_1940.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no007_1940.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no008_1253.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no008_1253.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no009_12891.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no009_12891.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no011_1874.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no011_1874.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no012_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no012_17298.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no013_2164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no013_2164.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no014_11286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no014_11286.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no015_2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no015_2750.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no016_1377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no016_1377.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no017_1427.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no017_1427.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no018_11399.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no018_11399.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no019_11004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no019_11004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no020_2751.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no020_2751.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no022_10989.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no022_10989.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no023_11724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no023_11724.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no024_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no024_2023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no025_13023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no025_13023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no026_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no026_1260.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no027_2178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no027_2178.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no028_1167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no028_1167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no029_1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no029_1920.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no030_2343.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no030_2343.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no031_1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no031_1300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no032_11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no032_11047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no033_1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no033_1715.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no034_1744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no034_1744.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no035_1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no035_1931.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no036_1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no036_1541.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no037_1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no037_1929.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no038_1456.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no038_1456.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no039_1747.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no039_1747.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no040_1016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no040_1016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no042_1934.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no042_1934.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no043_1850.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no043_1850.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no046_18352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no046_18352.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no047_1325.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no047_1325.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no048_1707.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no048_1707.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no050_1717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no050_1717.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no051_1976.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no051_1976.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no052_1043.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no052_1043.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no053_2252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no053_2252.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no054_1516.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no054_1516.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no061_11404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no061_11404.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no062_11403.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no062_11403.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no063_1389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no063_1389.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no064_1197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no064_1197.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no066_1414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no066_1414.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Q004_구간 합 구하기2_11660">
-      <created>1683547899421</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683547899421</updated>
     </task>
     <task id="LOCAL-00005" summary="Q005_나머지 합 구하기_10986">
       <created>1683603784758</created>
@@ -470,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685592142448</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Q067_트리부모찾기_11725">
+      <created>1685596993520</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1685596993520</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q029_수찾기_1920" />
     <MESSAGE value="Q030_블루레이_2343" />
     <MESSAGE value="Q031_k번째수_1300" />
     <MESSAGE value="Q032_동전0_11047" />
@@ -510,7 +456,8 @@
     <MESSAGE value="Q062_경로찾기_11403" />
     <MESSAGE value="Q063_케빈베이컨의6단계법칙_1389" />
     <MESSAGE value="Q064_최소신장트리_1197" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q064_최소신장트리_1197" />
+    <MESSAGE value="Q067_트리부모찾기_11725" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q067_트리부모찾기_11725" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
