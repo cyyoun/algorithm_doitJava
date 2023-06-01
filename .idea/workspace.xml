@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q062_경로찾기_11403">
-      <change afterPath="$PROJECT_DIR$/src/no063_1389.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q063_케빈베이컨의6단계법칙_1389">
+      <change afterPath="$PROJECT_DIR$/src/no064_1197.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no062_11403.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no062_11403.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Q001_숫자의 합 구하기_11720">
-      <created>1683528541531</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1683528541531</updated>
     </task>
     <task id="LOCAL-00003" summary="Q002_평균 구하기_1546">
       <created>1683531299774</created>
@@ -418,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685430896946</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Q063_케빈베이컨의6단계법칙_1389">
+      <created>1685581319642</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1685581319642</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q026_DFS와BFS_1260" />
     <MESSAGE value="Q027_미로탐색_2178" />
     <MESSAGE value="Q029_수찾기_1920" />
     <MESSAGE value="Q030_블루레이_2343" />
@@ -458,7 +456,8 @@
     <MESSAGE value="Q054_게임개발_1516" />
     <MESSAGE value="Q061_플로이드_11404" />
     <MESSAGE value="Q062_경로찾기_11403" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q062_경로찾기_11403" />
+    <MESSAGE value="Q063_케빈베이컨의6단계법칙_1389" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q063_케빈베이컨의6단계법칙_1389" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
