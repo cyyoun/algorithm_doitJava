@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q067_트리부모찾기_11725">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q066_불우이웃돕기_1414">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no068_1068.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstReading/no066_1414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no066_1414.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Q005_나머지 합 구하기_10986">
-      <created>1683603784758</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1683603784758</updated>
     </task>
     <task id="LOCAL-00006" summary="Q006_연속된자연수의합_2018">
       <created>1683608212633</created>
@@ -417,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685596993520</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Q066_불우이웃돕기_1414">
+      <created>1685626019587</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1685626019587</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q030_블루레이_2343" />
     <MESSAGE value="Q031_k번째수_1300" />
     <MESSAGE value="Q032_동전0_11047" />
     <MESSAGE value="Q033_카드정렬하기_1715" />
@@ -457,7 +456,8 @@
     <MESSAGE value="Q063_케빈베이컨의6단계법칙_1389" />
     <MESSAGE value="Q064_최소신장트리_1197" />
     <MESSAGE value="Q067_트리부모찾기_11725" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q067_트리부모찾기_11725" />
+    <MESSAGE value="Q066_불우이웃돕기_1414" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q066_불우이웃돕기_1414" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
