@@ -28,7 +28,7 @@ public class no068_1068 {
                 tree[i].add(k);
                 tree[k].add(i);
             } else
-                root = i; //이게 뭥미
+                root = i;
         }
         deleteNode = Integer.parseInt(br.readLine());
         if (deleteNode == root) {
