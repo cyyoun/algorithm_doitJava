@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q069_문자열찾기_14425">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q070_트리순회_1991">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no071_2042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no072_10868.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no073_11505.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Q008_좋은수_1253">
-      <created>1683648711005</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1683648711005</updated>
     </task>
     <task id="LOCAL-00009" summary="Q009_DNA비밀번호_12891">
       <created>1683695825379</created>
@@ -395,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685845522747</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Q070_트리순회_1991">
+      <created>1685870470849</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1685870470849</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q033_카드정렬하기_1715" />
     <MESSAGE value="Q034_수묶기_1744" />
     <MESSAGE value="Q035_회의실배정_1931" />
     <MESSAGE value="Q036_잃어버린괄호_1541" />
@@ -435,7 +437,8 @@
     <MESSAGE value="Q066_불우이웃돕기_1414" />
     <MESSAGE value="Q068_리프노드_1068" />
     <MESSAGE value="Q069_문자열찾기_14425" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q069_문자열찾기_14425" />
+    <MESSAGE value="Q070_트리순회_1991" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q070_트리순회_1991" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
