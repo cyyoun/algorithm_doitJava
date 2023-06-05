@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q076_11050_이항계수">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no077_11051.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q077_11051_이항계수2">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no078_2775.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +52,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Q011_스택수열_1874">
-      <created>1683709613326</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1683709613326</updated>
     </task>
     <task id="LOCAL-00012" summary="Q012_오큰수_17298">
       <created>1683719394750</created>
@@ -396,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685936618707</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Q077_11051_이항계수2">
+      <created>1685941067061</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1685941067061</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q036_잃어버린괄호_1541" />
     <MESSAGE value="Q037_소수구하기_1929" />
     <MESSAGE value="Q038_거의소수_1456" />
     <MESSAGE value="Q039_소수팰린드롬_1747" />
@@ -436,7 +435,8 @@
     <MESSAGE value="Q070_트리순회_1991" />
     <MESSAGE value="Q071,072,073_세그먼트 트리" />
     <MESSAGE value="Q076_11050_이항계수" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q076_11050_이항계수" />
+    <MESSAGE value="Q077_11051_이항계수2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q077_11051_이항계수2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
