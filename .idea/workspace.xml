@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q078_부녀회장이될테야_2775">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no079_1010.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q079_다리놓기_1010">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no080_13251.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Q014_절댓값힘_11286">
-      <created>1683882187629</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1683882187629</updated>
     </task>
     <task id="LOCAL-00014" summary="Q015_수정렬하기_2750">
       <created>1683883431568</created>
@@ -396,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685945488349</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Q079_다리놓기_1010">
+      <created>1685950282444</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1685950282444</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q038_거의소수_1456" />
     <MESSAGE value="Q039_소수팰린드롬_1747" />
     <MESSAGE value="Q040_제곱이아닌수_1016" />
     <MESSAGE value="Q042_최소공배수_1934" />
@@ -436,7 +436,8 @@
     <MESSAGE value="Q076_11050_이항계수" />
     <MESSAGE value="Q077_11051_이항계수2" />
     <MESSAGE value="Q078_부녀회장이될테야_2775" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q078_부녀회장이될테야_2775" />
+    <MESSAGE value="Q079_다리놓기_1010" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q079_다리놓기_1010" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
