@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q079_다리놓기_1010">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no080_13251.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q080_조약돌_13251">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no081_1722.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +52,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Q015_수정렬하기_2750">
-      <created>1683883431568</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1683883431568</updated>
     </task>
     <task id="LOCAL-00015" summary="Q016_버블소트_1377">
       <created>1683904118914</created>
@@ -397,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685950282444</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Q080_조약돌_13251">
+      <created>1686039171970</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1686039171970</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q039_소수팰린드롬_1747" />
     <MESSAGE value="Q040_제곱이아닌수_1016" />
     <MESSAGE value="Q042_최소공배수_1934" />
     <MESSAGE value="Q043_최대공약수_1850" />
@@ -437,7 +435,8 @@
     <MESSAGE value="Q077_11051_이항계수2" />
     <MESSAGE value="Q078_부녀회장이될테야_2775" />
     <MESSAGE value="Q079_다리놓기_1010" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q079_다리놓기_1010" />
+    <MESSAGE value="Q080_조약돌_13251" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q080_조약돌_13251" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
