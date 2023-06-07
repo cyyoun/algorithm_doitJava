@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q082_사전_1256">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no083_1947.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q083_선물전달_1947">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no084_1463.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Q018_ATM_11399">
-      <created>1683937732006</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1683937732006</updated>
     </task>
     <task id="LOCAL-00018" summary="Q019_k번째수_11004">
       <created>1684041125085</created>
@@ -398,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686054180877</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Q083_선물전달_1947">
+      <created>1686106906334</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1686106906335</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q043_최대공약수_1850" />
     <MESSAGE value="Q047_효율적인해킹_1325" />
     <MESSAGE value="Q048_이분그래프_1707" />
     <MESSAGE value="Q050_집합표현하기_1717" />
@@ -438,7 +437,8 @@
     <MESSAGE value="Q080_조약돌_13251" />
     <MESSAGE value="Q081_순열순서_1722" />
     <MESSAGE value="Q082_사전_1256" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q082_사전_1256" />
+    <MESSAGE value="Q083_선물전달_1947" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q083_선물전달_1947" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
