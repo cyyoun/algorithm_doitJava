@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q089_연속합2">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no091_1915.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q091_가장큰정사각형_1915">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no090_9252.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Q024_신기한소수_2023">
-      <created>1684165285374</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1684165285374</updated>
     </task>
     <task id="LOCAL-00025" summary="Q025_ABCDE_13023">
       <created>1684221698087</created>
@@ -398,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686483026869</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Q091_가장큰정사각형_1915">
+      <created>1686488120423</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1686488120423</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q053_줄세우기_2252" />
     <MESSAGE value="Q054_게임개발_1516" />
     <MESSAGE value="Q061_플로이드_11404" />
     <MESSAGE value="Q062_경로찾기_11403" />
@@ -438,7 +437,8 @@
     <MESSAGE value="Q087_타일채우기_11726" />
     <MESSAGE value="Q088_계단수_10844" />
     <MESSAGE value="Q089_연속합2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q089_연속합2" />
+    <MESSAGE value="Q091_가장큰정사각형_1915" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q091_가장큰정사각형_1915" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
