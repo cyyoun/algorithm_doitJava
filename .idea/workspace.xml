@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q087_타일채우기_11726">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no088_10844.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q088_계단수_10844">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no089_13398.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstReading/no087_11726.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no087_11726.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no088_10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no088_10844.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Q012_오큰수_17298_Retry">
-      <created>1684053194059</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1684053194059</updated>
     </task>
     <task id="LOCAL-00023" summary="Q023_연결요소의개수_11724">
       <created>1684135223146</created>
@@ -399,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686411856929</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Q088_계단수_10844">
+      <created>1686471885855</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1686471885855</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q051_여행가자_1976" />
     <MESSAGE value="Q052_거짓말_1043" />
     <MESSAGE value="Q053_줄세우기_2252" />
     <MESSAGE value="Q054_게임개발_1516" />
@@ -439,7 +438,8 @@
     <MESSAGE value="Q084_1만들기_1463" />
     <MESSAGE value="Q086_이친수_2193" />
     <MESSAGE value="Q087_타일채우기_11726" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q087_타일채우기_11726" />
+    <MESSAGE value="Q088_계단수_10844" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q088_계단수_10844" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -23,7 +23,6 @@ public class no088_10844 {
                 A[i][j] = (A[i - 1][j - 1] + A[i - 1][j - 1]) % mod;
             }
         }
-
         long sum = 0;
         for (int i = 0; i < 10; i++) {
             sum = (sum + A[n][i]) % mod;
