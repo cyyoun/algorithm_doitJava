@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q086_이친수_2193">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/no087_11726.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q087_타일채우기_11726">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/no088_10844.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no087_11726.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstReading/no087_11726.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Q016_버블소트_1377_Retry">
-      <created>1684052320641</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1684052320641</updated>
     </task>
     <task id="LOCAL-00022" summary="Q012_오큰수_17298_Retry">
       <created>1684053194059</created>
@@ -398,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686296088325</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Q087_타일채우기_11726">
+      <created>1686411856929</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1686411856929</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q050_집합표현하기_1717" />
     <MESSAGE value="Q051_여행가자_1976" />
     <MESSAGE value="Q052_거짓말_1043" />
     <MESSAGE value="Q053_줄세우기_2252" />
@@ -438,7 +438,8 @@
     <MESSAGE value="Q083_선물전달_1947" />
     <MESSAGE value="Q084_1만들기_1463" />
     <MESSAGE value="Q086_이친수_2193" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q086_이친수_2193" />
+    <MESSAGE value="Q087_타일채우기_11726" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q087_타일채우기_11726" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

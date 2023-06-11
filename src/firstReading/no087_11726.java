@@ -10,7 +10,7 @@ public class no087_11726 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
 
-        int[] A = new int[n + 1];
+        long[] A = new long[n + 1];
         A[1] = 1;
         A[2] = 2;
         for(int i = 3; i <= n; i++) {
