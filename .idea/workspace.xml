@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="q1965">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/q9625.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="q9625">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/q11048.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Q030_블루레이_2343">
-      <created>1684391306296</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1684391306296</updated>
     </task>
     <task id="LOCAL-00030" summary="Q031_k번째수_1300">
       <created>1684394853745</created>
@@ -398,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686801195630</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="q9625">
+      <created>1686802491239</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1686802491239</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q064_최소신장트리_1197" />
     <MESSAGE value="Q067_트리부모찾기_11725" />
     <MESSAGE value="Q066_불우이웃돕기_1414" />
     <MESSAGE value="Q068_리프노드_1068" />
@@ -438,7 +437,8 @@
     <MESSAGE value="Q094_행렬곱연산횟수의최솟값_11049" />
     <MESSAGE value="Q12852_1로 만들기2" />
     <MESSAGE value="q1965" />
-    <option name="LAST_COMMIT_MESSAGE" value="q1965" />
+    <MESSAGE value="q9625" />
+    <option name="LAST_COMMIT_MESSAGE" value="q9625" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
