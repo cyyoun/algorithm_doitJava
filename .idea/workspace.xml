@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q094_행렬곱연산횟수의최솟값_11049">
-      <change afterPath="$PROJECT_DIR$/src/firstReading/q12852.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q12852_1로 만들기2">
+      <change afterPath="$PROJECT_DIR$/src/firstReading/q1965.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Q027_미로탐색_2178">
-      <created>1684314238587</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1684314238587</updated>
     </task>
     <task id="LOCAL-00028" summary="Q029_수찾기_1920">
       <created>1684379865931</created>
@@ -398,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686788455217</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Q12852_1로 만들기2">
+      <created>1686795680707</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1686795680707</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q062_경로찾기_11403" />
     <MESSAGE value="Q063_케빈베이컨의6단계법칙_1389" />
     <MESSAGE value="Q064_최소신장트리_1197" />
     <MESSAGE value="Q067_트리부모찾기_11725" />
@@ -438,7 +437,8 @@
     <MESSAGE value="Q091_가장큰정사각형_1915" />
     <MESSAGE value="Q090_LCS_9252" />
     <MESSAGE value="Q094_행렬곱연산횟수의최솟값_11049" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q094_행렬곱연산횟수의최솟값_11049" />
+    <MESSAGE value="Q12852_1로 만들기2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q12852_1로 만들기2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
