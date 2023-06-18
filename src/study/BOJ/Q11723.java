@@ -15,7 +15,7 @@ import java.util.StringTokenizer;
  * >> 상동, 오른쪽으로 이동
  *
  */
-public class Q11723_집합 {
+public class Q11723 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
