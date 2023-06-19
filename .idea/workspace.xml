@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Do it Java_Q1, Q2, Q3">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/달리기경주.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="lv.1_달리기 경주">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/추억점수.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/BOJ/Q1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/BOJ/Q1546.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Q037_소수구하기_1929">
-      <created>1684647891573</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1684647891573</updated>
     </task>
     <task id="LOCAL-00037" summary="Q038_거의소수_1456">
       <created>1684654635148</created>
@@ -399,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687091718190</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="lv.1_달리기 경주">
+      <created>1687161761749</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1687161761749</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q076_11050_이항계수" />
     <MESSAGE value="Q077_11051_이항계수2" />
     <MESSAGE value="Q078_부녀회장이될테야_2775" />
     <MESSAGE value="Q079_다리놓기_1010" />
@@ -439,7 +437,8 @@
     <MESSAGE value="Q2828_사과담기게임" />
     <MESSAGE value="Q2847_게임을 만든 동준이" />
     <MESSAGE value="Do it Java_Q1, Q2, Q3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do it Java_Q1, Q2, Q3" />
+    <MESSAGE value="lv.1_달리기 경주" />
+    <option name="LAST_COMMIT_MESSAGE" value="lv.1_달리기 경주" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
