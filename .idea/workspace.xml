@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="lv.1_추억 점수">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/공원산책.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q005_10986.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="나머지 합">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q006_2018.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Q039_소수팰린드롬_1747">
-      <created>1684658510126</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1684658510126</updated>
     </task>
     <task id="LOCAL-00039" summary="Q040_제곱이아닌수_1016">
       <created>1684659301503</created>
@@ -399,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687169117669</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="나머지 합">
+      <created>1687407067139</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1687407067140</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q078_부녀회장이될테야_2775" />
     <MESSAGE value="Q079_다리놓기_1010" />
     <MESSAGE value="Q080_조약돌_13251" />
     <MESSAGE value="Q081_순열순서_1722" />
@@ -439,7 +437,8 @@
     <MESSAGE value="Do it Java_Q1, Q2, Q3" />
     <MESSAGE value="lv.1_달리기 경주" />
     <MESSAGE value="lv.1_추억 점수" />
-    <option name="LAST_COMMIT_MESSAGE" value="lv.1_추억 점수" />
+    <MESSAGE value="나머지 합" />
+    <option name="LAST_COMMIT_MESSAGE" value="나머지 합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
