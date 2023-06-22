@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="주몽">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q008_1253.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="좋다(GOOD)">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q009_12891.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q011_1874.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Q043_최대공약수_1850">
-      <created>1684660560928</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1684660560928</updated>
     </task>
     <task id="LOCAL-00042" summary="Q047_효율적인해킹_1325">
       <created>1684917598194</created>
@@ -398,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687412851965</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="좋다(GOOD)">
+      <created>1687423506487</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1687423506487</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q081_순열순서_1722" />
     <MESSAGE value="Q082_사전_1256" />
     <MESSAGE value="Q083_선물전달_1947" />
     <MESSAGE value="Q084_1만들기_1463" />
@@ -438,7 +438,8 @@
     <MESSAGE value="나머지 합" />
     <MESSAGE value="수들의 합 5" />
     <MESSAGE value="주몽" />
-    <option name="LAST_COMMIT_MESSAGE" value="주몽" />
+    <MESSAGE value="좋다(GOOD)" />
+    <option name="LAST_COMMIT_MESSAGE" value="좋다(GOOD)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -449,5 +450,10 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm_doitJava$q009_12891.ic" NAME="q009_12891 Coverage Results" MODIFIED="1687432241733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>secondReading.*</FILTER>
+    </SUITE>
   </component>
 </project>
