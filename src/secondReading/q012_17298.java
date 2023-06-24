@@ -18,6 +18,9 @@ public class q012_17298  {
         stack.push(0);
 
         for(int i = 1; i < n; i++) {
+            System.out.println("stack.peek() = " + stack.peek());
+            System.out.println("A[stack.peek()] = " + A[stack.peek()]);
+            System.out.println("A[i] = " + A[i]);
             while (!stack.isEmpty() && A[stack.peek()] < A[i]) {
                 result[stack.pop()] = A[i];
             }

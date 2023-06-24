@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="좋다(GOOD)">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q012_17298.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="오큰수">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q013_2164.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q012_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondReading/q012_17298.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Q047_효율적인해킹_1325">
-      <created>1684917598194</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1684917598194</updated>
     </task>
     <task id="LOCAL-00043" summary="Q048_이분그래프_1707">
       <created>1684934071334</created>
@@ -398,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687423506487</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="오큰수">
+      <created>1687585828628</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1687585828628</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q082_사전_1256" />
     <MESSAGE value="Q083_선물전달_1947" />
     <MESSAGE value="Q084_1만들기_1463" />
     <MESSAGE value="Q086_이친수_2193" />
@@ -438,7 +438,8 @@
     <MESSAGE value="수들의 합 5" />
     <MESSAGE value="주몽" />
     <MESSAGE value="좋다(GOOD)" />
-    <option name="LAST_COMMIT_MESSAGE" value="좋다(GOOD)" />
+    <MESSAGE value="오큰수" />
+    <option name="LAST_COMMIT_MESSAGE" value="오큰수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
