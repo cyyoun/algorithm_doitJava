@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="편집기">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q023_11724.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="연결 요소의 개수" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,20 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Q053_줄세우기_2252">
-      <created>1685075801097</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1685075801097</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Q054_게임개발_1516">
-      <created>1685108474282</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1685108474282</updated>
     </task>
     <task id="LOCAL-00049" summary="Q061_플로이드_11404">
       <created>1685423743122</created>
@@ -398,7 +381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687925777546</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="연결 요소의 개수">
+      <created>1687928730108</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1687928730108</updated>
+    </task>
+    <task id="LOCAL-00097" summary="연결 요소의 개수">
+      <created>1687928762464</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1687928762464</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q088_계단수_10844" />
     <MESSAGE value="Q089_연속합2" />
     <MESSAGE value="Q091_가장큰정사각형_1915" />
     <MESSAGE value="Q090_LCS_9252" />
@@ -438,7 +434,8 @@
     <MESSAGE value="절댓값 힙" />
     <MESSAGE value="괄호" />
     <MESSAGE value="편집기" />
-    <option name="LAST_COMMIT_MESSAGE" value="편집기" />
+    <MESSAGE value="연결 요소의 개수" />
+    <option name="LAST_COMMIT_MESSAGE" value="연결 요소의 개수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

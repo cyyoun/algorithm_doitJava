@@ -16,7 +16,7 @@ public class q023_11724 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         int n = Integer.parseInt(st.nextToken());
         int m = Integer.parseInt(st.nextToken());
-        A = new ArrayList<Integer>[n + 1];
+        A = new ArrayList[n + 1];
         visited = new boolean[n + 1];
         stack = new Stack<>();
         for (int i = 1; i <= n; i++) {
