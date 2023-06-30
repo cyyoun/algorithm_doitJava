@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="DFS와 BFS">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q027_2178.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="미로탐색">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q028_1167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/BOJ/q2667.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0bd038d2-07e0-4955-8391-daca599414a3" />
+        <option name="url" value="https://github.com/cyyoun/algorithm_doitJava.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,6 +60,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="secondReading" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Q067_트리부모찾기_11725">
-      <created>1685596993520</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1685596993520</updated>
     </task>
     <task id="LOCAL-00054" summary="Q066_불우이웃돕기_1414">
       <created>1685626019587</created>
@@ -398,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688031468071</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="미로탐색">
+      <created>1688034573057</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1688034573057</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q094_행렬곱연산횟수의최솟값_11049" />
     <MESSAGE value="Q12852_1로 만들기2" />
     <MESSAGE value="q1965" />
     <MESSAGE value="q9625" />
@@ -438,7 +456,8 @@
     <MESSAGE value="신기한 소수" />
     <MESSAGE value="트리" />
     <MESSAGE value="DFS와 BFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS와 BFS" />
+    <MESSAGE value="미로탐색" />
+    <option name="LAST_COMMIT_MESSAGE" value="미로탐색" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
