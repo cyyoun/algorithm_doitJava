@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="미로탐색">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q028_1167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/BOJ/q2667.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="트리의 지름">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q029_1920.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Q066_불우이웃돕기_1414">
-      <created>1685626019587</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1685626019587</updated>
     </task>
     <task id="LOCAL-00055" summary="Q068_리프노드_1068">
       <created>1685799738782</created>
@@ -417,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688034573057</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="트리의 지름">
+      <created>1688126112248</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1688126112249</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q12852_1로 만들기2" />
     <MESSAGE value="q1965" />
     <MESSAGE value="q9625" />
     <MESSAGE value="q11048" />
@@ -457,7 +455,8 @@
     <MESSAGE value="트리" />
     <MESSAGE value="DFS와 BFS" />
     <MESSAGE value="미로탐색" />
-    <option name="LAST_COMMIT_MESSAGE" value="미로탐색" />
+    <MESSAGE value="트리의 지름" />
+    <option name="LAST_COMMIT_MESSAGE" value="트리의 지름" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
