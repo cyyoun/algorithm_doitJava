@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="트리의 지름">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q030_2343.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="기타레슨">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q031_1300.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Q068_리프노드_1068">
-      <created>1685799738782</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1685799738783</updated>
     </task>
     <task id="LOCAL-00056" summary="Q069_문자열찾기_14425">
       <created>1685845522746</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688126112249</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="기타레슨">
+      <created>1688265712536</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1688265712537</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="q1965" />
     <MESSAGE value="q9625" />
     <MESSAGE value="q11048" />
     <MESSAGE value="q2579" />
@@ -456,7 +455,8 @@
     <MESSAGE value="DFS와 BFS" />
     <MESSAGE value="미로탐색" />
     <MESSAGE value="트리의 지름" />
-    <option name="LAST_COMMIT_MESSAGE" value="트리의 지름" />
+    <MESSAGE value="기타레슨" />
+    <option name="LAST_COMMIT_MESSAGE" value="기타레슨" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
