@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="기타 레슨_이진탐색 복습">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q034_1744.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="수 묶기">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q035_1931.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Q078_부녀회장이될테야_2775">
-      <created>1685945488349</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1685945488349</updated>
     </task>
     <task id="LOCAL-00062" summary="Q079_다리놓기_1010">
       <created>1685950282444</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688350849415</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="수 묶기">
+      <created>1688452455488</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1688452455489</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Q2847_게임을 만든 동준이" />
     <MESSAGE value="Do it Java_Q1, Q2, Q3" />
     <MESSAGE value="lv.1_달리기 경주" />
     <MESSAGE value="lv.1_추억 점수" />
@@ -456,7 +455,8 @@
     <MESSAGE value="카드 정렬하기" />
     <MESSAGE value="수 찾기_이진탐색 복습" />
     <MESSAGE value="기타 레슨_이진탐색 복습" />
-    <option name="LAST_COMMIT_MESSAGE" value="기타 레슨_이진탐색 복습" />
+    <MESSAGE value="수 묶기" />
+    <option name="LAST_COMMIT_MESSAGE" value="수 묶기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
