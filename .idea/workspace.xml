@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="소수&amp;팰린드롬">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q040_11689.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q041_1934.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="GCDNK1 | 최소 공배수 구하기">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q043_1850.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q040_11689.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondReading/q041_11689.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q041_1934.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondReading/q042_1934.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Q084_1만들기_1463">
-      <created>1686115142876</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1686115142876</updated>
     </task>
     <task id="LOCAL-00069" summary="Q086_이친수_2193">
       <created>1686296088324</created>
@@ -417,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688650636134</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="GCDNK1 | 최소 공배수 구하기">
+      <created>1688707412343</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1688707412343</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="좋다(GOOD)" />
     <MESSAGE value="오큰수" />
     <MESSAGE value="카드2" />
     <MESSAGE value="절댓값 힙" />
@@ -457,7 +457,8 @@
     <MESSAGE value="소수 구하기" />
     <MESSAGE value="거의 소수" />
     <MESSAGE value="소수&amp;팰린드롬" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수&amp;팰린드롬" />
+    <MESSAGE value="GCDNK1 | 최소 공배수 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="GCDNK1 | 최소 공배수 구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
