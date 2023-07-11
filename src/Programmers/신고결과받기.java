@@ -7,6 +7,9 @@ import java.util.stream.Collectors;
 public class 신고결과받기 {
 
     public static void main(String[] args) {
+        List<Integer> list = new ArrayList<>();
+        System.out.println(list.indexOf("dd"));
+
         String[] id_list = {"muzi", "frodo", "apeach", "neo"};
         String[] report = {"muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"};
         int k = 2;
