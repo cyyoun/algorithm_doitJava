@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="대충 만든 자판">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/가장가까운같은글자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/두개뽑아서더하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/성격유형검사하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q040_1016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q044_1033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/BOJ/q2072.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="성격 유형 검사하기">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/신규아이디추천.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/같은숫자는싫어.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/같은숫자는싫어.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00088" summary="수들의 합 5">
-      <created>1687411038642</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1687411038642</updated>
     </task>
     <task id="LOCAL-00089" summary="주몽">
       <created>1687412851965</created>
@@ -422,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689510145614</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="성격 유형 검사하기">
+      <created>1689568372902</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1689568372902</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="잃어버린 괄호" />
     <MESSAGE value="회의실배정 복습" />
     <MESSAGE value="소수 구하기" />
     <MESSAGE value="거의 소수" />
@@ -462,7 +455,8 @@
     <MESSAGE value="하샤드 수" />
     <MESSAGE value="푸드 파이트 대회" />
     <MESSAGE value="대충 만든 자판" />
-    <option name="LAST_COMMIT_MESSAGE" value="대충 만든 자판" />
+    <MESSAGE value="성격 유형 검사하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="성격 유형 검사하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
