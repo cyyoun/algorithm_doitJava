@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="최대공약수">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="대충 만든 자판">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/가장가까운같은글자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/두개뽑아서더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/성격유형검사하기.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/secondReading/q040_1016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q041_review.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/secondReading/q044_1033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/BOJ/q2072.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/같은숫자는싫어.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/같은숫자는싫어.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/study/algorithm_doitJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/gomoku&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -74,132 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Q087_타일채우기_11726">
-      <created>1686411856929</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1686411856929</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Q088_계단수_10844">
-      <created>1686471885855</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1686471885855</updated>
-    </task>
-    <task id="LOCAL-00072" summary="Q089_연속합2">
-      <created>1686483026869</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1686483026869</updated>
-    </task>
-    <task id="LOCAL-00073" summary="Q091_가장큰정사각형_1915">
-      <created>1686488120423</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1686488120423</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Q090_LCS_9252">
-      <created>1686489165046</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1686489165046</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Q094_행렬곱연산횟수의최솟값_11049">
-      <created>1686788455217</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1686788455217</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Q12852_1로 만들기2">
-      <created>1686795680707</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1686795680707</updated>
-    </task>
-    <task id="LOCAL-00077" summary="q1965">
-      <created>1686801195630</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1686801195630</updated>
-    </task>
-    <task id="LOCAL-00078" summary="q9625">
-      <created>1686802491239</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1686802491239</updated>
-    </task>
-    <task id="LOCAL-00079" summary="q11048">
-      <created>1686804293384</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1686804293384</updated>
-    </task>
-    <task id="LOCAL-00080" summary="q2579">
-      <created>1686809093915</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1686809093915</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Q11723_집합">
-      <created>1686900393728</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1686900393728</updated>
-    </task>
-    <task id="LOCAL-00082" summary="Q2828_사과담기게임">
-      <created>1687085722824</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1687085722824</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Q2847_게임을 만든 동준이">
-      <created>1687086746363</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1687086746363</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Do it Java_Q1, Q2, Q3">
-      <created>1687091718190</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1687091718190</updated>
-    </task>
-    <task id="LOCAL-00085" summary="lv.1_달리기 경주">
-      <created>1687161761749</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1687161761749</updated>
-    </task>
-    <task id="LOCAL-00086" summary="lv.1_추억 점수">
-      <created>1687169117669</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1687169117669</updated>
-    </task>
-    <task id="LOCAL-00087" summary="나머지 합">
-      <created>1687407067139</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1687407067140</updated>
     </task>
     <task id="LOCAL-00088" summary="수들의 합 5">
       <created>1687411038642</created>
@@ -418,7 +296,133 @@
       <option name="project" value="LOCAL" />
       <updated>1688708912889</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="GCDNK1 복습">
+      <created>1688793041774</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1688793041774</updated>
+    </task>
+    <task id="LOCAL-00120" summary="체육복">
+      <created>1688899762707</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1688899762707</updated>
+    </task>
+    <task id="LOCAL-00121" summary="같은 숫자는 싫어">
+      <created>1688901577867</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1688901577867</updated>
+    </task>
+    <task id="LOCAL-00122" summary="기능개발">
+      <created>1688904510712</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1688904510712</updated>
+    </task>
+    <task id="LOCAL-00123" summary="신고 결과 받기">
+      <created>1689062131529</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1689062131529</updated>
+    </task>
+    <task id="LOCAL-00124" summary="완주하지 못한 선수">
+      <created>1689074926186</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1689074926186</updated>
+    </task>
+    <task id="LOCAL-00125" summary="햄버거 만들기">
+      <created>1689078706322</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1689078706322</updated>
+    </task>
+    <task id="LOCAL-00126" summary="복습_햄버거, 완주 못한 선수, 신고 결과">
+      <created>1689130996458</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1689130996459</updated>
+    </task>
+    <task id="LOCAL-00127" summary="달리기 경주">
+      <created>1689139573734</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1689139573734</updated>
+    </task>
+    <task id="LOCAL-00128" summary="바탕화면 정리">
+      <created>1689142025237</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1689142025237</updated>
+    </task>
+    <task id="LOCAL-00129" summary="덧칠하기">
+      <created>1689219340902</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1689219340902</updated>
+    </task>
+    <task id="LOCAL-00130" summary="카드 뭉치">
+      <created>1689224404323</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1689224404323</updated>
+    </task>
+    <task id="LOCAL-00131" summary="나누어 떨어지는 숫자 배열">
+      <created>1689346347151</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1689346347151</updated>
+    </task>
+    <task id="LOCAL-00132" summary="숫자 짝꿍">
+      <created>1689502684063</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1689502684064</updated>
+    </task>
+    <task id="LOCAL-00133" summary="옹알이2">
+      <created>1689505122804</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1689505122804</updated>
+    </task>
+    <task id="LOCAL-00134" summary="하샤드 수">
+      <created>1689505488447</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1689505488447</updated>
+    </task>
+    <task id="LOCAL-00135" summary="푸드 파이트 대회">
+      <created>1689506809110</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1689506809110</updated>
+    </task>
+    <task id="LOCAL-00136" summary="대충 만든 자판">
+      <created>1689510145614</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1689510145614</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,24 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="카드2" />
-    <MESSAGE value="절댓값 힙" />
-    <MESSAGE value="괄호" />
-    <MESSAGE value="편집기" />
-    <MESSAGE value="연결 요소의 개수" />
-    <MESSAGE value="신기한 소수" />
-    <MESSAGE value="트리" />
-    <MESSAGE value="DFS와 BFS" />
-    <MESSAGE value="미로탐색" />
-    <MESSAGE value="트리의 지름" />
-    <MESSAGE value="기타레슨" />
-    <MESSAGE value="K번째 수" />
-    <MESSAGE value="동전 0" />
-    <MESSAGE value="카드 정렬하기" />
-    <MESSAGE value="수 찾기_이진탐색 복습" />
-    <MESSAGE value="기타 레슨_이진탐색 복습" />
-    <MESSAGE value="수 묶기" />
-    <MESSAGE value="회의실 배정" />
     <MESSAGE value="잃어버린 괄호" />
     <MESSAGE value="회의실배정 복습" />
     <MESSAGE value="소수 구하기" />
@@ -458,7 +444,25 @@
     <MESSAGE value="소수&amp;팰린드롬" />
     <MESSAGE value="GCDNK1 | 최소 공배수 구하기" />
     <MESSAGE value="최대공약수" />
-    <option name="LAST_COMMIT_MESSAGE" value="최대공약수" />
+    <MESSAGE value="GCDNK1 복습" />
+    <MESSAGE value="체육복" />
+    <MESSAGE value="같은 숫자는 싫어" />
+    <MESSAGE value="기능개발" />
+    <MESSAGE value="신고 결과 받기" />
+    <MESSAGE value="완주하지 못한 선수" />
+    <MESSAGE value="햄버거 만들기" />
+    <MESSAGE value="복습_햄버거, 완주 못한 선수, 신고 결과" />
+    <MESSAGE value="달리기 경주" />
+    <MESSAGE value="바탕화면 정리" />
+    <MESSAGE value="덧칠하기" />
+    <MESSAGE value="카드 뭉치" />
+    <MESSAGE value="나누어 떨어지는 숫자 배열" />
+    <MESSAGE value="숫자 짝꿍" />
+    <MESSAGE value="옹알이2" />
+    <MESSAGE value="하샤드 수" />
+    <MESSAGE value="푸드 파이트 대회" />
+    <MESSAGE value="대충 만든 자판" />
+    <option name="LAST_COMMIT_MESSAGE" value="대충 만든 자판" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

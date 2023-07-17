@@ -1,14 +1,15 @@
 package Programmers;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
 public class 같은숫자는싫어 {
+
     public static void main(String[] args) {
         solution(new int[]{1,2,3,4,5,6,7,8,9});
     }
-
     private static int[] solution(int []arr) {
 
         int k = -1;
