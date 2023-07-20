@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="소수 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/둘만의암호.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="둘만의 암호">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/k번째수.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Programmers/키패드누르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -73,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00093" summary="절댓값 힙">
-      <created>1687592545589</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1687592545589</updated>
     </task>
     <task id="LOCAL-00094" summary="괄호">
       <created>1687859611011</created>
@@ -417,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689828470702</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="둘만의 암호">
+      <created>1689832790787</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1689832790787</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GCDNK1 | 최소 공배수 구하기" />
     <MESSAGE value="최대공약수" />
     <MESSAGE value="GCDNK1 복습" />
     <MESSAGE value="체육복" />
@@ -457,7 +456,8 @@
     <MESSAGE value="신규 아이디 추천 복습" />
     <MESSAGE value="기사 단원의 무기" />
     <MESSAGE value="소수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수 찾기" />
+    <MESSAGE value="둘만의 암호" />
+    <option name="LAST_COMMIT_MESSAGE" value="둘만의 암호" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
