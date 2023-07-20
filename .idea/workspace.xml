@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="신규 아이디 추천 복습">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/기사단원의무기.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="기사 단원의 무기">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/소수찾기.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Programmers/키패드누르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -73,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00091" summary="오큰수">
-      <created>1687585828628</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1687585828628</updated>
     </task>
     <task id="LOCAL-00092" summary="카드2">
       <created>1687590577388</created>
@@ -417,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689652264849</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="기사 단원의 무기">
+      <created>1689827978595</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1689827978596</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="거의 소수" />
     <MESSAGE value="소수&amp;팰린드롬" />
     <MESSAGE value="GCDNK1 | 최소 공배수 구하기" />
     <MESSAGE value="최대공약수" />
@@ -457,7 +456,8 @@
     <MESSAGE value="성격 유형 검사하기" />
     <MESSAGE value="신규 아이디 추천" />
     <MESSAGE value="신규 아이디 추천 복습" />
-    <option name="LAST_COMMIT_MESSAGE" value="신규 아이디 추천 복습" />
+    <MESSAGE value="기사 단원의 무기" />
+    <option name="LAST_COMMIT_MESSAGE" value="기사 단원의 무기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
