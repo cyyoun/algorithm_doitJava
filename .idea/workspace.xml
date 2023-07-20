@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="신규 아이디 추천">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/review_신규아이디추천.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="신규 아이디 추천 복습">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/기사단원의무기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/키패드누르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00090" summary="좋다(GOOD)">
-      <created>1687423506487</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1687423506487</updated>
     </task>
     <task id="LOCAL-00091" summary="오큰수">
       <created>1687585828628</created>
@@ -416,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689579192120</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="신규 아이디 추천 복습">
+      <created>1689652264849</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1689652264849</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="소수 구하기" />
     <MESSAGE value="거의 소수" />
     <MESSAGE value="소수&amp;팰린드롬" />
     <MESSAGE value="GCDNK1 | 최소 공배수 구하기" />
@@ -456,7 +456,8 @@
     <MESSAGE value="대충 만든 자판" />
     <MESSAGE value="성격 유형 검사하기" />
     <MESSAGE value="신규 아이디 추천" />
-    <option name="LAST_COMMIT_MESSAGE" value="신규 아이디 추천" />
+    <MESSAGE value="신규 아이디 추천 복습" />
+    <option name="LAST_COMMIT_MESSAGE" value="신규 아이디 추천 복습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
