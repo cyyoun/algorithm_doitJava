@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="k번째 수">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/키패드누르기.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="최댓값과 최솟값">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/JadenCase문자열만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00095" summary="편집기">
-      <created>1687925777546</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1687925777546</updated>
     </task>
     <task id="LOCAL-00096" summary="연결 요소의 개수">
       <created>1687928730108</created>
@@ -415,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689834081985</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="최댓값과 최솟값">
+      <created>1690066868623</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1690066868624</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GCDNK1 복습" />
     <MESSAGE value="체육복" />
     <MESSAGE value="같은 숫자는 싫어" />
     <MESSAGE value="기능개발" />
@@ -455,7 +455,8 @@
     <MESSAGE value="소수 찾기" />
     <MESSAGE value="둘만의 암호" />
     <MESSAGE value="k번째 수" />
-    <option name="LAST_COMMIT_MESSAGE" value="k번째 수" />
+    <MESSAGE value="최댓값과 최솟값" />
+    <option name="LAST_COMMIT_MESSAGE" value="최댓값과 최솟값" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
