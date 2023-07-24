@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="다음 큰 숫자">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/짝지어제거하기.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="짝지어 제거하기">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/피보나치수.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Programmers/최소직사각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/최소직사각형.java" afterDir="false" />
     </list>
@@ -73,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00101" summary="DFS와 BFS">
-      <created>1688031468071</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1688031468071</updated>
     </task>
     <task id="LOCAL-00102" summary="미로탐색">
       <created>1688034573057</created>
@@ -417,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690088273504</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="짝지어 제거하기">
+      <created>1690179789945</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1690179789946</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="햄버거 만들기" />
     <MESSAGE value="복습_햄버거, 완주 못한 선수, 신고 결과" />
     <MESSAGE value="달리기 경주" />
     <MESSAGE value="바탕화면 정리" />
@@ -457,7 +456,8 @@
     <MESSAGE value="최솟값 만들기" />
     <MESSAGE value="이진변환반복하기" />
     <MESSAGE value="다음 큰 숫자" />
-    <option name="LAST_COMMIT_MESSAGE" value="다음 큰 숫자" />
+    <MESSAGE value="짝지어 제거하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="짝지어 제거하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
