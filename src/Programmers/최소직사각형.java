@@ -8,8 +8,8 @@ public class 최소직사각형 {
     private static int solution(int[][] sizes) {
         int w = 0, h = 0;
         for (int[] card : sizes) {
-            w = Math.max(w, Math.max(card[0], card[1]));
-            h = Math.max(h, Math.min(card[0], card[1]));
+            w = Math.max(w, Math.min(card[0], card[1]));
+            h = Math.max(h, Math.max(card[0], card[1]));
         }
         return w * h;
     }

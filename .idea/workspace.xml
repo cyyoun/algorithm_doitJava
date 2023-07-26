@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="피보나치 수">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/영어끝말잇기.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="영어 끝말잇기">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/n의2제곱배열자르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/영어끝말잇기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/영어끝말잇기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Programmers/최소직사각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/최소직사각형.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00103" summary="트리의 지름">
-      <created>1688126112248</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1688126112249</updated>
     </task>
     <task id="LOCAL-00104" summary="기타레슨">
       <created>1688265712536</created>
@@ -417,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690236816177</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="영어 끝말잇기">
+      <created>1690242116156</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1690242116156</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="달리기 경주" />
     <MESSAGE value="바탕화면 정리" />
     <MESSAGE value="덧칠하기" />
     <MESSAGE value="카드 뭉치" />
@@ -457,7 +457,8 @@
     <MESSAGE value="다음 큰 숫자" />
     <MESSAGE value="짝지어 제거하기" />
     <MESSAGE value="피보나치 수" />
-    <option name="LAST_COMMIT_MESSAGE" value="피보나치 수" />
+    <MESSAGE value="영어 끝말잇기" />
+    <option name="LAST_COMMIT_MESSAGE" value="영어 끝말잇기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

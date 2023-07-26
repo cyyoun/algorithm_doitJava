@@ -7,6 +7,9 @@ public class 영어끝말잇기 {
         System.out.println((int)Math.ceil((double) 9 /3));
         System.out.println(Arrays.toString(solution(2, new String[]{"hello", "one", "even", "never", "now", "world", "draw"})));
     }
+
+
+    // Set 을 사용해서 전체 사이즈 카운트하여 중복 확인 로직도 가능
     private static int[] solution(int n, String[] words) {
         int seq = 0;
         int person = 0;
