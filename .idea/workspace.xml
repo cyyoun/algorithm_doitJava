@@ -4,49 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="n의2제곱배열">
-      <change afterPath="$PROJECT_DIR$/src/secondReading/q026_review.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="q026_1260_DFS와BFS_복습">
+      <change afterPath="$PROJECT_DIR$/src/secondReading/q027_review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/JadenCase문자열만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/JadenCase문자열만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/k번째수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/k번째수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/n의2제곱배열자르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/n의2제곱배열자르기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/review_신규아이디추천.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/review_신규아이디추천.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/reviews_햄버거_신고결과_완주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/reviews_햄버거_신고결과_완주.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/가장가까운같은글자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/가장가까운같은글자.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/같은숫자는싫어.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/같은숫자는싫어.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/공원산책.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/공원산책.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/기능개발.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/기능개발.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/기사단원의무기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/기사단원의무기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/나누어떨어지는숫자배열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/나누어떨어지는숫자배열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/다음큰숫자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/다음큰숫자.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/달리기경주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/달리기경주.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/대충만든자판.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/대충만든자판.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/덧칠하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/덧칠하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/두개뽑아서더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/두개뽑아서더하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/둘만의암호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/둘만의암호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/모의고사.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/모의고사.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/바탕화면정리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/바탕화면정리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/성격유형검사하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/성격유형검사하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/소수찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/소수찾기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/숫자짝꿍.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/숫자짝꿍.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/신고결과받기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/신고결과받기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/신규아이디추천.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/신규아이디추천.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/영어끝말잇기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/영어끝말잇기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/올바른괄호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/올바른괄호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/옹알이2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/옹알이2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/완주하지못한선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/완주하지못한선수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/이진변환반복하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/이진변환반복하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/짝지어제거하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/짝지어제거하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/체육복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/체육복.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/최댓값과최솟값.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/최댓값과최솟값.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/최소직사각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/최소직사각형.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/최솟값만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/최솟값만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/추억점수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/추억점수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/카드뭉치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/카드뭉치.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/푸드파이터대회.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/푸드파이터대회.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/피보나치수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/피보나치수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/하샤드수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/하샤드수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/햄버거만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/햄버거만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00105" summary="K번째 수">
-      <created>1688272560419</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1688272560419</updated>
     </task>
     <task id="LOCAL-00106" summary="동전 0">
       <created>1688273845305</created>
@@ -456,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690358866121</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="q026_1260_DFS와BFS_복습">
+      <created>1690441134002</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1690441134002</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="덧칠하기" />
     <MESSAGE value="카드 뭉치" />
     <MESSAGE value="나누어 떨어지는 숫자 배열" />
     <MESSAGE value="숫자 짝꿍" />
@@ -496,7 +455,8 @@
     <MESSAGE value="피보나치 수" />
     <MESSAGE value="영어 끝말잇기" />
     <MESSAGE value="n의2제곱배열" />
-    <option name="LAST_COMMIT_MESSAGE" value="n의2제곱배열" />
+    <MESSAGE value="q026_1260_DFS와BFS_복습" />
+    <option name="LAST_COMMIT_MESSAGE" value="q026_1260_DFS와BFS_복습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
