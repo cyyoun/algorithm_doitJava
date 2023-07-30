@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="카펫">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/N개의최소공배수.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="N개의 최소공배수">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/귤고르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00109" summary="기타 레슨_이진탐색 복습">
-      <created>1688350849415</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1688350849415</updated>
     </task>
     <task id="LOCAL-00110" summary="수 묶기">
       <created>1688452455488</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690463490672</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="N개의 최소공배수">
+      <created>1690675530577</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1690675530578</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="옹알이2" />
     <MESSAGE value="하샤드 수" />
     <MESSAGE value="푸드 파이트 대회" />
     <MESSAGE value="대충 만든 자판" />
@@ -456,7 +455,8 @@
     <MESSAGE value="q027_2178_미로탐색_복습" />
     <MESSAGE value="타겟 넘버" />
     <MESSAGE value="카펫" />
-    <option name="LAST_COMMIT_MESSAGE" value="카펫" />
+    <MESSAGE value="N개의 최소공배수" />
+    <option name="LAST_COMMIT_MESSAGE" value="N개의 최소공배수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
