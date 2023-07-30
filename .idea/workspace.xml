@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="귤 고르기">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/괄호회전하기.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="괄호 회전하기">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/신고결과받기_복습.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/HIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00111" summary="회의실 배정">
-      <created>1688466807616</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1688466807616</updated>
     </task>
     <task id="LOCAL-00112" summary="잃어버린 괄호">
       <created>1688528177894</created>
@@ -416,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690680720344</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="괄호 회전하기">
+      <created>1690694571555</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1690694571555</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="푸드 파이트 대회" />
     <MESSAGE value="대충 만든 자판" />
     <MESSAGE value="성격 유형 검사하기" />
     <MESSAGE value="신규 아이디 추천" />
@@ -456,7 +456,8 @@
     <MESSAGE value="카펫" />
     <MESSAGE value="N개의 최소공배수" />
     <MESSAGE value="귤 고르기" />
-    <option name="LAST_COMMIT_MESSAGE" value="귤 고르기" />
+    <MESSAGE value="괄호 회전하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="괄호 회전하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
