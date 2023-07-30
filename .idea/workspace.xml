@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="괄호 회전하기">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="H-Index">
       <change afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/신고결과받기_복습.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/HIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00112" summary="잃어버린 괄호">
-      <created>1688528177894</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1688528177894</updated>
     </task>
     <task id="LOCAL-00113" summary="회의실배정 복습">
       <created>1688529289245</created>
@@ -417,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690694571555</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="H-Index">
+      <created>1690705143917</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1690705143917</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="대충 만든 자판" />
     <MESSAGE value="성격 유형 검사하기" />
     <MESSAGE value="신규 아이디 추천" />
     <MESSAGE value="신규 아이디 추천 복습" />
@@ -457,7 +455,8 @@
     <MESSAGE value="N개의 최소공배수" />
     <MESSAGE value="귤 고르기" />
     <MESSAGE value="괄호 회전하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="괄호 회전하기" />
+    <MESSAGE value="H-Index" />
+    <option name="LAST_COMMIT_MESSAGE" value="H-Index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
