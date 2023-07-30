@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="타겟 넘버" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="카펫">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/N개의최소공배수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00108" summary="수 찾기_이진탐색 복습">
-      <created>1688345348670</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1688345348670</updated>
     </task>
     <task id="LOCAL-00109" summary="기타 레슨_이진탐색 복습">
       <created>1688350849415</created>
@@ -413,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690461647229</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="카펫">
+      <created>1690463490672</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1690463490672</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="숫자 짝꿍" />
     <MESSAGE value="옹알이2" />
     <MESSAGE value="하샤드 수" />
     <MESSAGE value="푸드 파이트 대회" />
@@ -453,7 +455,8 @@
     <MESSAGE value="q026_1260_DFS와BFS_복습" />
     <MESSAGE value="q027_2178_미로탐색_복습" />
     <MESSAGE value="타겟 넘버" />
-    <option name="LAST_COMMIT_MESSAGE" value="타겟 넘버" />
+    <MESSAGE value="카펫" />
+    <option name="LAST_COMMIT_MESSAGE" value="카펫" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
