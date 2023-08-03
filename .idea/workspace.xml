@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="구명보트">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/복습1.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="복습 - N개의 최소공배수 | 귤 고르기 | 괄호 회전하기">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/배달.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/프로세스.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00115" summary="거의 소수">
-      <created>1688648632721</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1688648632721</updated>
     </task>
     <task id="LOCAL-00116" summary="소수&amp;팰린드롬">
       <created>1688650636134</created>
@@ -416,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690708730185</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="복습 - N개의 최소공배수 | 귤 고르기 | 괄호 회전하기">
+      <created>1691029241856</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1691029241856</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="신규 아이디 추천 복습" />
     <MESSAGE value="기사 단원의 무기" />
     <MESSAGE value="소수 찾기" />
     <MESSAGE value="둘만의 암호" />
@@ -456,7 +456,8 @@
     <MESSAGE value="H-Index" />
     <MESSAGE value="신고 결과 받기_복습" />
     <MESSAGE value="구명보트" />
-    <option name="LAST_COMMIT_MESSAGE" value="구명보트" />
+    <MESSAGE value="복습 - N개의 최소공배수 | 귤 고르기 | 괄호 회전하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="복습 - N개의 최소공배수 | 귤 고르기 | 괄호 회전하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
