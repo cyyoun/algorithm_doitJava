@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="신고 결과 받기_복습">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/구명보트.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="구명보트">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/복습1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00114" summary="소수 구하기">
-      <created>1688643606304</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1688643606304</updated>
     </task>
     <task id="LOCAL-00115" summary="거의 소수">
       <created>1688648632721</created>
@@ -415,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690707491069</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="구명보트">
+      <created>1690708730185</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1690708730185</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="신규 아이디 추천" />
     <MESSAGE value="신규 아이디 추천 복습" />
     <MESSAGE value="기사 단원의 무기" />
     <MESSAGE value="소수 찾기" />
@@ -455,7 +455,8 @@
     <MESSAGE value="괄호 회전하기" />
     <MESSAGE value="H-Index" />
     <MESSAGE value="신고 결과 받기_복습" />
-    <option name="LAST_COMMIT_MESSAGE" value="신고 결과 받기_복습" />
+    <MESSAGE value="구명보트" />
+    <option name="LAST_COMMIT_MESSAGE" value="구명보트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
