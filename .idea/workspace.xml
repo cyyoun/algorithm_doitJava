@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="피로도">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/배달.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/전화번호목록.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="튜플">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/숫자의표현.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/피로도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/lev2/피로도.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00118" summary="최대공약수">
-      <created>1688708912889</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1688708912889</updated>
-    </task>
-    <task id="LOCAL-00119" summary="GCDNK1 복습">
-      <created>1688793041774</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1688793041774</updated>
     </task>
     <task id="LOCAL-00120" summary="체육복">
       <created>1688899762707</created>
@@ -418,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691065229067</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="캐시">
+      <created>1691312834381</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1691312834382</updated>
+    </task>
+    <task id="LOCAL-00168" summary="튜플">
+      <created>1691323047245</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1691323047245</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,8 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="둘만의 암호" />
-    <MESSAGE value="k번째 수" />
     <MESSAGE value="최댓값과 최솟값" />
     <MESSAGE value="JadenCase 문자열 만들기" />
     <MESSAGE value="올바른 괄호" />
@@ -458,7 +454,9 @@
     <MESSAGE value="복습 - N개의 최소공배수 | 귤 고르기 | 괄호 회전하기" />
     <MESSAGE value="프로세스" />
     <MESSAGE value="피로도" />
-    <option name="LAST_COMMIT_MESSAGE" value="피로도" />
+    <MESSAGE value="캐시" />
+    <MESSAGE value="튜플" />
+    <option name="LAST_COMMIT_MESSAGE" value="튜플" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
