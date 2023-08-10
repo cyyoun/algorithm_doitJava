@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="튜플">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/숫자의표현.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="숫자의 표현">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/멀리뛰기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,26 @@
       <recent name="secondReading" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="멀리뛰기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.lev2.멀리뛰기" />
+      <module name="algorithm_doitJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.lev2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.멀리뛰기" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,13 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00120" summary="체육복">
-      <created>1688899762707</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1688899762707</updated>
     </task>
     <task id="LOCAL-00121" summary="같은 숫자는 싫어">
       <created>1688901577867</created>
@@ -416,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691323047245</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="숫자의 표현">
+      <created>1691630223638</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1691630223639</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="최댓값과 최솟값" />
     <MESSAGE value="JadenCase 문자열 만들기" />
     <MESSAGE value="올바른 괄호" />
     <MESSAGE value="최솟값 만들기" />
@@ -456,7 +475,8 @@
     <MESSAGE value="피로도" />
     <MESSAGE value="캐시" />
     <MESSAGE value="튜플" />
-    <option name="LAST_COMMIT_MESSAGE" value="튜플" />
+    <MESSAGE value="숫자의 표현" />
+    <option name="LAST_COMMIT_MESSAGE" value="숫자의 표현" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
