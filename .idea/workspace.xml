@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="뒤에 있는 큰 수 찾기">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="숫자 문자열과 영단어">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/_2016년.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,13 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00126" summary="복습_햄버거, 완주 못한 선수, 신고 결과">
-      <created>1689130996458</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1689130996459</updated>
     </task>
     <task id="LOCAL-00127" summary="달리기 경주">
       <created>1689139573734</created>
@@ -435,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691927883149</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="숫자 문자열과 영단어">
+      <created>1691930075146</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1691930075146</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="짝지어 제거하기" />
     <MESSAGE value="피보나치 수" />
     <MESSAGE value="영어 끝말잇기" />
     <MESSAGE value="n의2제곱배열" />
@@ -475,7 +475,8 @@
     <MESSAGE value="Q2343 복습" />
     <MESSAGE value="땅따먹기" />
     <MESSAGE value="뒤에 있는 큰 수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="뒤에 있는 큰 수 찾기" />
+    <MESSAGE value="숫자 문자열과 영단어" />
+    <option name="LAST_COMMIT_MESSAGE" value="숫자 문자열과 영단어" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
