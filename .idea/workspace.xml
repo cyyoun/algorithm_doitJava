@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="숫자 문자열과 영단어">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev1_2/_2016년.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2016년">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/할인행사.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00127" summary="달리기 경주">
-      <created>1689139573734</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1689139573734</updated>
     </task>
     <task id="LOCAL-00128" summary="바탕화면 정리">
       <created>1689142025237</created>
@@ -436,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691930075146</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="2016년">
+      <created>1691930894487</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1691930894487</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="피보나치 수" />
     <MESSAGE value="영어 끝말잇기" />
     <MESSAGE value="n의2제곱배열" />
     <MESSAGE value="q026_1260_DFS와BFS_복습" />
@@ -476,7 +474,8 @@
     <MESSAGE value="땅따먹기" />
     <MESSAGE value="뒤에 있는 큰 수 찾기" />
     <MESSAGE value="숫자 문자열과 영단어" />
-    <option name="LAST_COMMIT_MESSAGE" value="숫자 문자열과 영단어" />
+    <MESSAGE value="2016년" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016년" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
