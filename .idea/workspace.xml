@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="실패율">
-      <change afterPath="$PROJECT_DIR$/src/study/BOJ/q2343.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="Q2343 복습">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/땅따먹기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,13 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00123" summary="신고 결과 받기">
-      <created>1689062131529</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1689062131529</updated>
     </task>
     <task id="LOCAL-00124" summary="완주하지 못한 선수">
       <created>1689074926186</created>
@@ -436,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691641303526</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="Q2343 복습">
+      <created>1691644087795</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1691644087795</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="최솟값 만들기" />
     <MESSAGE value="이진변환반복하기" />
     <MESSAGE value="다음 큰 숫자" />
     <MESSAGE value="짝지어 제거하기" />
@@ -476,7 +475,8 @@
     <MESSAGE value="숫자의 표현" />
     <MESSAGE value="멀리뛰기" />
     <MESSAGE value="실패율" />
-    <option name="LAST_COMMIT_MESSAGE" value="실패율" />
+    <MESSAGE value="Q2343 복습" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q2343 복습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
