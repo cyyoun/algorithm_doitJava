@@ -9,6 +9,7 @@ import java.io.InputStreamReader;
  * 2023) 신기한 소수 찾기
  * time : 124ms
  * memory : 14192KB
+ * review : 230817
  */
 public class Q002 {
     static int n;

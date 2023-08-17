@@ -11,6 +11,7 @@ import java.util.StringTokenizer;
  * 11724) 연결 요소의 개수 구하기
  * time : 700ms
  * memory : 141692KB
+ * review : 230817
  */
 public class Q001 {
     static boolean[] visited;
