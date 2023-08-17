@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="13023) 친구 관계 파악하기">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q004.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1260) DFS와 BFS 프로그램">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/DFS_BFS/너비 우선 탐색" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/너비 우선 탐색" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00131" summary="나누어 떨어지는 숫자 배열">
-      <created>1689346347151</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1689346347151</updated>
     </task>
     <task id="LOCAL-00132" summary="숫자 짝꿍">
       <created>1689502684063</created>
@@ -436,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692258897796</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="1260) DFS와 BFS 프로그램">
+      <created>1692267512598</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1692267512598</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="q027_2178_미로탐색_복습" />
     <MESSAGE value="타겟 넘버" />
     <MESSAGE value="카펫" />
     <MESSAGE value="N개의 최소공배수" />
@@ -476,7 +476,8 @@
     <MESSAGE value="11724) 연결 요소의 개수 구하기" />
     <MESSAGE value="2023) 신기한 소수 찾기" />
     <MESSAGE value="13023) 친구 관계 파악하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="13023) 친구 관계 파악하기" />
+    <MESSAGE value="1260) DFS와 BFS 프로그램" />
+    <option name="LAST_COMMIT_MESSAGE" value="1260) DFS와 BFS 프로그램" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
