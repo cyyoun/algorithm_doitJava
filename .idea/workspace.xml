@@ -5,7 +5,191 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2016년">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/lev2/할인행사.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/깊이 우선 탐색" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/너비 우선 탐색" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/graph/그래프" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/JadenCase문자열만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/JadenCase문자열만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/_2016년.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/_2016년.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/k번째수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/k번째수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/n의2제곱배열자르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/n의2제곱배열자르기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/review_신규아이디추천.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/review_신규아이디추천.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/reviews_햄버거_신고결과_완주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/reviews_햄버거_신고결과_완주.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/가장가까운같은글자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/가장가까운같은글자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/같은숫자는싫어.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/같은숫자는싫어.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/공원산책.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/공원산책.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/기능개발.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/기능개발.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/기사단원의무기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/기사단원의무기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/나누어떨어지는숫자배열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/나누어떨어지는숫자배열.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/다음큰숫자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/다음큰숫자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/달리기경주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/달리기경주.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/대충만든자판.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/대충만든자판.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/덧칠하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/덧칠하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/두개뽑아서더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/두개뽑아서더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/둘만의암호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/둘만의암호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/모의고사.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/모의고사.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/바탕화면정리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/바탕화면정리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/성격유형검사하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/성격유형검사하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/소수찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/소수찾기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/숫자문자열과영단어.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/숫자문자열과영단어.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/숫자짝꿍.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/숫자짝꿍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/신고결과받기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/신고결과받기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/신고결과받기_복습.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/신고결과받기_복습.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/신규아이디추천.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/신규아이디추천.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/실패율.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/실패율.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/영어끝말잇기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/영어끝말잇기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/올바른괄호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/올바른괄호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/옹알이2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/옹알이2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/완주하지못한선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/완주하지못한선수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/이진변환반복하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/이진변환반복하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/짝지어제거하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/짝지어제거하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/체육복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/체육복.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/최댓값과최솟값.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/최댓값과최솟값.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/최소직사각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/최소직사각형.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/최솟값만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/최솟값만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/추억점수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/추억점수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/카드뭉치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/카드뭉치.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/푸드파이터대회.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/푸드파이터대회.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/피보나치수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/피보나치수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/하샤드수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/하샤드수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev1_2/햄버거만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev1_2/햄버거만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/HIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/HIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/N개의최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/N개의최소공배수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/괄호회전하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/괄호회전하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/구명보트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/구명보트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/귤고르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/귤고르기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/뒤에있는큰수찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/뒤에있는큰수찾기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/땅따먹기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/땅따먹기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/멀리뛰기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/멀리뛰기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/배달.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/배달.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/복습1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/복습1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/숫자의표현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/숫자의표현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/전화번호목록.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/전화번호목록.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/카펫.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/카펫.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/캐시.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/캐시.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/타겟넘버.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/타겟넘버.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/튜플.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/튜플.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/프로세스.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/프로세스.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/피로도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/피로도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/lev2/할인행사.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/할인행사.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no001_11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no001_11720.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no002_1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no002_1546.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no003_11659.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no003_11659.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no004_11660.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no004_11660.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no005_10986.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no005_10986.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no006_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no006_2018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no007_1940.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no007_1940.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no008_1253.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no008_1253.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no009_12891.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no009_12891.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no011_1874.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no011_1874.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no012_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no012_17298.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no013_2164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no013_2164.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no014_11286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no014_11286.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no015_2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no015_2750.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no016_1377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no016_1377.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no017_1427.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no017_1427.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no018_11399.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no018_11399.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no019_11004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no019_11004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no020_2751.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no020_2751.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no022_10989.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no022_10989.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no023_11724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no023_11724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no024_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no024_2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no025_13023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no025_13023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no026_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no026_1260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no027_2178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no027_2178.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no028_1167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no028_1167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no029_1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no029_1920.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no030_2343.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no030_2343.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no031_1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no031_1300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no032_11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no032_11047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no033_1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no033_1715.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no034_1744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no034_1744.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no035_1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no035_1931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no036_1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no036_1541.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no037_1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no037_1929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no038_1456.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no038_1456.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no039_1747.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no039_1747.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no040_1016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no040_1016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no042_1934.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no042_1934.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no043_1850.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no043_1850.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no046_18352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no046_18352.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no047_1325.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no047_1325.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no048_1707.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no048_1707.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no050_1717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no050_1717.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no051_1976.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no051_1976.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no052_1043.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no052_1043.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no053_2252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no053_2252.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no054_1516.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no054_1516.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no061_11404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no061_11404.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no062_11403.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no062_11403.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no063_1389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no063_1389.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no064_1197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no064_1197.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no066_1414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no066_1414.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no067_11725.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no067_11725.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no068_1068.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no068_1068.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no069_14425.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no069_14425.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no070_1991.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no070_1991.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no071_2042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no071_2042.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no072_10868.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no072_10868.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no073_11505.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no073_11505.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no076_11050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no076_11050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no077_11051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no077_11051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no078_2775.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no078_2775.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no079_1010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no079_1010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no080_13251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no080_13251.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no081_1722.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no081_1722.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no082_1256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no082_1256.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no083_1947.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no083_1947.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no084_1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no084_1463.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no086_2193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no086_2193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no087_11726.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no087_11726.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no088_10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no088_10844.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no089_13398.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no089_13398.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no090_9252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no090_9252.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no091_1915.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no091_1915.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/no094_11049.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/no094_11049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/q11048.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/q11048.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/q12852.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/q12852.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/q1965.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/q1965.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/q2579.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/q2579.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstReading/q9625.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/firstReading/q9625.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q005_10986.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q005_10986.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q006_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q006_2018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q007_1940.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q007_1940.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q008_1253.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q008_1253.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q009_12891.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q009_12891.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q011_1874.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q011_1874.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q012_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q012_17298.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q013_2164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q013_2164.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q014_11286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q014_11286.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q023_11724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q023_11724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q024_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q024_2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q026_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q026_1260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q026_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q026_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q027_2178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q027_2178.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q027_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q027_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q028_1167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q028_1167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q029_1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q029_1920.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q029_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q029_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q030_2343.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q030_2343.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q030_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q030_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q031_1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q031_1300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q032_11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q032_11047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q033_1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q033_1715.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q034_1744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q034_1744.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q035_1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q035_1931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q035_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q035_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q036_1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q036_1541.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q037_1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q037_1929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q038_1456.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q038_1456.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q039_1747.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q039_1747.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q040_1016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q040_1016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q041_11689.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q041_11689.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q041_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q041_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q042_1934.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q042_1934.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q043_1850.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q043_1850.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondReading/q044_1033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitcoding/secondReading/q044_1033.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +249,11 @@
   </component>
   <component name="RunManager">
     <configuration name="멀리뛰기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.lev2.멀리뛰기" />
+      <option name="MAIN_CLASS_NAME" value="programmers.lev2.멀리뛰기" />
       <module name="algorithm_doitJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.lev2.*" />
+          <option name="PATTERN" value="programmers.lev2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
