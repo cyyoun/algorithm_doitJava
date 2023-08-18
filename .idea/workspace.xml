@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2178) 미로 탐색하기">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q003_review1.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="3023 복습) 친구 관계 파악하기">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q005_review1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q005.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00133" summary="옹알이2">
-      <created>1689505122804</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1689505122804</updated>
     </task>
     <task id="LOCAL-00134" summary="하샤드 수">
       <created>1689505488447</created>
@@ -419,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692273783601</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="3023 복습) 친구 관계 파악하기">
+      <created>1692333513190</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1692333513190</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="카펫" />
     <MESSAGE value="N개의 최소공배수" />
     <MESSAGE value="귤 고르기" />
     <MESSAGE value="괄호 회전하기" />
@@ -459,7 +456,8 @@
     <MESSAGE value="13023) 친구 관계 파악하기" />
     <MESSAGE value="1260) DFS와 BFS 프로그램" />
     <MESSAGE value="2178) 미로 탐색하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="2178) 미로 탐색하기" />
+    <MESSAGE value="3023 복습) 친구 관계 파악하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="3023 복습) 친구 관계 파악하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
