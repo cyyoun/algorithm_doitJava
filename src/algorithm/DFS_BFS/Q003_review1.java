@@ -5,17 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
-
-/**
- * 백준 실버 5
- * 11724) 연결 요소의 개수 구하기
- * time : 700ms
- * memory : 141692KB
- * review : 230817
- */
-public class Q001 {
-        static boolean[] visited;
-        static ArrayList<Integer>[] A;
+public class Q003_review1 {
+    static boolean[] visited;
+    static ArrayList<Integer>[] A;
+    static boolean result = false;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -24,10 +17,10 @@ public class Q001 {
         int n = Integer.parseInt(st.nextToken());
         int m = Integer.parseInt(st.nextToken());
 
-        visited = new boolean[n + 1];
-        A = new ArrayList[n + 1];
+        visited = new boolean[n];
+        A = new ArrayList[n];
 
-        for (int i = 1; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
             A[i] = new ArrayList<>();
         }
 
@@ -39,24 +32,27 @@ public class Q001 {
             A[a].add(b);
             A[b].add(a);
         }
-        int cnt = 0;
-        for (int i = 1; i <= n; i++) {
-            if (!visited[i]) {
-                DFS(i);
-                cnt++;
+
+        for (int i = 0; i < n; i++) {
+            DFS(i, 1);
+            if (result) {
+                break;
             }
         }
-        System.out.println(cnt);
+        System.out.println(result ? 1 : 0);
     }
 
-    private static void DFS(int node) {
-        if (!visited[node]) {
-            visited[node] = true;
-            if (A[node] != null) {
-                for (int item : A[node]) {
-                    DFS(item);
-                }
+    public static void DFS(int item, int depth) {
+        if (depth == 5) {
+            result = true;
+            return;
+        }
+        visited[item] = true;
+        for (int i : A[item]) {
+            if (!visited[i]) {
+                DFS(i, depth + 1);
             }
         }
+        visited[item] = false;
     }
 }

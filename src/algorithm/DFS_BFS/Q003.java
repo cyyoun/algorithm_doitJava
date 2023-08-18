@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
  * 13023) 친구 관계 파악하기
  * time :
  * memory :
- * review : 230817(fail)
+ * review : 230817(fail) 230818(fail)
  * point : 친구 관계가 5명인 경우 -> 5깊이가 형성되는지 찾는 문제
  */
 public class Q003 {
