@@ -8,9 +8,9 @@ import java.util.*;
 /**
  * 백준 실버 2
  * 18352) 특정 거리의 도시 찾기
- * time :
- * memory :
- * review :
+ * time : 1236ms
+ * memory : 269708KB
+ * review : 230820
  */
 public class Q006 {
     static boolean[] visited;
@@ -37,7 +37,7 @@ public class Q006 {
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
             A[a].add(b);
-            A[b].add(a);
+//            A[b].add(a);
         }
 
         BFS(v);
