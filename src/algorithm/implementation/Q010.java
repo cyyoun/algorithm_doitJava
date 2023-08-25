@@ -8,9 +8,9 @@ import java.util.Stack;
 /**
  * 백준 실버 3
  * 17413) 단어 뒤집기 2
- * time :
- * memory :
- * review : 230824(fail)
+ * time : 1052ms
+ * memory : 30420KB
+ * review : 230824(fail) 230825
  */
 public class Q010 {
     static Stack<Character> stack;
