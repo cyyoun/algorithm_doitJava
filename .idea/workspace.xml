@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1697) 숨바꼭질">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/graph/Q017.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/greedy/Q018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00148" summary="이진변환반복하기">
-      <created>1690079758548</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1690079758548</updated>
     </task>
     <task id="LOCAL-00149" summary="다음 큰 숫자">
       <created>1690088273504</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693388522495</updated>
     </task>
-    <option name="localTasksCounter" value="197" />
+    <task id="LOCAL-00197" summary="1697) 숨바꼭질">
+      <created>1693388941164</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1693388941164</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
