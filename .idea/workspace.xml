@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="11403) 경로 찾기">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q022.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="9655) 돌 게임">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q023.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00152" summary="영어 끝말잇기">
-      <created>1690242116156</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1690242116156</updated>
     </task>
     <task id="LOCAL-00153" summary="n의2제곱배열">
       <created>1690358866121</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693467700650</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="9655) 돌 게임">
+      <created>1693527079306</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1693527079306</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="숫자 문자열과 영단어" />
     <MESSAGE value="2016년" />
     <MESSAGE value="11724) 연결 요소의 개수 구하기" />
     <MESSAGE value="2023) 신기한 소수 찾기" />
@@ -456,7 +455,8 @@
     <MESSAGE value="1092) 배" />
     <MESSAGE value="1992) 쿼드트리" />
     <MESSAGE value="11403) 경로 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="11403) 경로 찾기" />
+    <MESSAGE value="9655) 돌 게임" />
+    <option name="LAST_COMMIT_MESSAGE" value="9655) 돌 게임" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
