@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1904) 01타일">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q025.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="11726) 2 x n 타일링">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q026.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/DP/Q024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DP/Q024.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00155" summary="q027_2178_미로탐색_복습">
-      <created>1690448429938</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1690448429938</updated>
     </task>
     <task id="LOCAL-00156" summary="타겟 넘버">
       <created>1690461647229</created>
@@ -417,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693750458262</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="11726) 2 x n 타일링">
+      <created>1693808888770</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1693808888771</updated>
+    </task>
+    <option name="localTasksCounter" value="205" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023) 신기한 소수 찾기" />
     <MESSAGE value="13023) 친구 관계 파악하기" />
     <MESSAGE value="1260) DFS와 BFS 프로그램" />
     <MESSAGE value="2178) 미로 탐색하기" />
@@ -457,7 +455,8 @@
     <MESSAGE value="9655) 돌 게임" />
     <MESSAGE value="2193) 이친수" />
     <MESSAGE value="1904) 01타일" />
-    <option name="LAST_COMMIT_MESSAGE" value="1904) 01타일" />
+    <MESSAGE value="11726) 2 x n 타일링" />
+    <option name="LAST_COMMIT_MESSAGE" value="11726) 2 x n 타일링" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
