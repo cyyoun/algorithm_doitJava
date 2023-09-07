@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1699) 제곱수의 합">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q027.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="11055) 가장 큰 증가하는 부분 수열">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q028.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00157" summary="카펫">
-      <created>1690463490672</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1690463490672</updated>
     </task>
     <task id="LOCAL-00158" summary="N개의 최소공배수">
       <created>1690675530577</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693913995997</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="11055) 가장 큰 증가하는 부분 수열">
+      <created>1693999262949</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1693999262950</updated>
+    </task>
+    <option name="localTasksCounter" value="207" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1260) DFS와 BFS 프로그램" />
     <MESSAGE value="2178) 미로 탐색하기" />
     <MESSAGE value="3023 복습) 친구 관계 파악하기" />
     <MESSAGE value="2178 복습) 미로 탐색하기" />
@@ -456,7 +455,8 @@
     <MESSAGE value="1904) 01타일" />
     <MESSAGE value="11726) 2 x n 타일링" />
     <MESSAGE value="1699) 제곱수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="1699) 제곱수의 합" />
+    <MESSAGE value="11055) 가장 큰 증가하는 부분 수열" />
+    <option name="LAST_COMMIT_MESSAGE" value="11055) 가장 큰 증가하는 부분 수열" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
