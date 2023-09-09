@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="9465)스티커">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q029.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1912) 연속합">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q030.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00159" summary="귤 고르기">
-      <created>1690680720344</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1690680720344</updated>
     </task>
     <task id="LOCAL-00160" summary="괄호 회전하기">
       <created>1690694571555</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694086446144</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="1912) 연속합">
+      <created>1694152942164</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1694152942164</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3023 복습) 친구 관계 파악하기" />
     <MESSAGE value="2178 복습) 미로 탐색하기" />
     <MESSAGE value="18352) 특정 거리의 도시 찾기" />
     <MESSAGE value="1325) 효율적으로 해킹하기" />
@@ -456,7 +455,8 @@
     <MESSAGE value="1699) 제곱수의 합" />
     <MESSAGE value="11055) 가장 큰 증가하는 부분 수열" />
     <MESSAGE value="9465)스티커" />
-    <option name="LAST_COMMIT_MESSAGE" value="9465)스티커" />
+    <MESSAGE value="1912) 연속합" />
+    <option name="LAST_COMMIT_MESSAGE" value="1912) 연속합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
