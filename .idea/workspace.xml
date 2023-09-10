@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1912) 연속합">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
