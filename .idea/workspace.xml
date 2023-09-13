@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="11057) 오르막 수">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/implementation/Q033.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1205) 등수 구하기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,13 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00162" summary="신고 결과 받기_복습">
-      <created>1690707491069</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1690707491069</updated>
     </task>
     <task id="LOCAL-00163" summary="구명보트">
       <created>1690708730185</created>
@@ -416,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694398788871</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="1205) 등수 구하기">
+      <created>1694514824669</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1694514824669</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1325) 효율적으로 해킹하기" />
     <MESSAGE value="2251) 물의 양 구하기" />
     <MESSAGE value="17413) 단어 뒤집기 2" />
     <MESSAGE value="2578) 빙고" />
@@ -456,7 +452,8 @@
     <MESSAGE value="1912) 연속합" />
     <MESSAGE value="10844) 쉬운 계단 수" />
     <MESSAGE value="11057) 오르막 수" />
-    <option name="LAST_COMMIT_MESSAGE" value="11057) 오르막 수" />
+    <MESSAGE value="1205) 등수 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="1205) 등수 구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
