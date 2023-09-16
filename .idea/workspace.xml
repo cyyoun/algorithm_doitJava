@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1149) RGB 거리">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q035.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="15989) 1, 2, 3 더하기 4">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q036.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00164" summary="복습 - N개의 최소공배수 | 귤 고르기 | 괄호 회전하기">
-      <created>1691029241856</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1691029241856</updated>
     </task>
     <task id="LOCAL-00165" summary="프로세스">
       <created>1691051479967</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694686276608</updated>
     </task>
-    <option name="localTasksCounter" value="213" />
+    <task id="LOCAL-00213" summary="15989) 1, 2, 3 더하기 4">
+      <created>1694774452435</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1694774452436</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="17413) 단어 뒤집기 2" />
     <MESSAGE value="2578) 빙고" />
     <MESSAGE value="1167) 트리의 지름 구하기" />
     <MESSAGE value="17413 복습) 단어 뒤집기 2" />
@@ -456,7 +455,8 @@
     <MESSAGE value="11057) 오르막 수" />
     <MESSAGE value="1205) 등수 구하기" />
     <MESSAGE value="1149) RGB 거리" />
-    <option name="LAST_COMMIT_MESSAGE" value="1149) RGB 거리" />
+    <MESSAGE value="15989) 1, 2, 3 더하기 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="15989) 1, 2, 3 더하기 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
