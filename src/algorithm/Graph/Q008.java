@@ -1,4 +1,4 @@
-package algorithm.graph;
+package algorithm.Graph;
 
 import java.io.BufferedReader;
 import java.io.IOException;

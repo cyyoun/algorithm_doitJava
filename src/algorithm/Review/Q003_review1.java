@@ -1,4 +1,4 @@
-package algorithm.review;
+package algorithm.Review;
 
 import java.io.BufferedReader;
 import java.io.IOException;

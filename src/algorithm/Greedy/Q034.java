@@ -1,4 +1,4 @@
-package algorithm.greedy;
+package algorithm.Greedy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,9 +11,9 @@ import java.util.Comparator;
  * 1931) 회의실 배정
  * time :636ms
  * memory : 71624KB
- * review : 230829
+ * review : 230913
  */
-public class Q016 {
+public class Q034 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
@@ -35,8 +35,6 @@ public class Q016 {
                 return o1[1] - o2[1];
             }
         });
-
-
         int cnt = 0, end = 0;
         for (int i = 0; i < n; i++) {
             int a = A[i][0];
@@ -45,7 +43,6 @@ public class Q016 {
                 end = b;
                 cnt++;
             }
-
         }
         System.out.println(cnt);
     }
