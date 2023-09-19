@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="review 9655) 돌 게임">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="renamed">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q037.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/graph/Q006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Graph/Q006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/graph/Q008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Graph/Q008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/graph/Q009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Graph/Q009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/graph/그래프" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Graph/그래프" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/Q012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Greedy/Q012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/Q014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Greedy/Q014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/Q016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Greedy/Q016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/Q018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Greedy/Q018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/Q019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Greedy/Q019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/Q034.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Greedy/Q034.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/implementation/Q010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/implementation/Q011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/implementation/Q015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/implementation/Q033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q033.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/review/Q003_review1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Review/Q003_review1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/review/Q005_review1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Review/Q005_review1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/review/Q010_review1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Review/Q010_review1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00168" summary="튜플">
-      <created>1691323047245</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1691323047245</updated>
     </task>
     <task id="LOCAL-00169" summary="숫자의 표현">
       <created>1691630223638</created>
@@ -432,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695032723627</updated>
     </task>
-    <option name="localTasksCounter" value="217" />
+    <task id="LOCAL-00217" summary="renamed">
+      <created>1695109594790</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1695109594790</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11508) 2+1 세일" />
     <MESSAGE value="2644) 촌수계산" />
     <MESSAGE value="1541) 잃어버린 괄호" />
     <MESSAGE value="1244) 스위치 켜고 끄기" />
@@ -472,7 +455,8 @@
     <MESSAGE value="2293) 동전 1" />
     <MESSAGE value="14719) 빗물" />
     <MESSAGE value="review 9655) 돌 게임" />
-    <option name="LAST_COMMIT_MESSAGE" value="review 9655) 돌 게임" />
+    <MESSAGE value="renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
