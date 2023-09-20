@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="renamed">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q037.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="review 2193) 이친수">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Exploration/Q038.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00169" summary="숫자의 표현">
-      <created>1691630223638</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1691630223639</updated>
     </task>
     <task id="LOCAL-00170" summary="멀리뛰기">
       <created>1691634081471</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695109594790</updated>
     </task>
-    <option name="localTasksCounter" value="218" />
+    <task id="LOCAL-00218" summary="review 2193) 이친수">
+      <created>1695135378109</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1695135378109</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2644) 촌수계산" />
     <MESSAGE value="1541) 잃어버린 괄호" />
     <MESSAGE value="1244) 스위치 켜고 끄기" />
     <MESSAGE value="1931) 회의실 배정" />
@@ -456,7 +455,8 @@
     <MESSAGE value="14719) 빗물" />
     <MESSAGE value="review 9655) 돌 게임" />
     <MESSAGE value="renamed" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed" />
+    <MESSAGE value="review 2193) 이친수" />
+    <option name="LAST_COMMIT_MESSAGE" value="review 2193) 이친수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
