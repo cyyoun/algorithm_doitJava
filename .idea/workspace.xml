@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="review 2193) 이친수">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Exploration/Q038.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1654) 랜선 자르기">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Review/Q025_review1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00170" summary="멀리뛰기">
-      <created>1691634081471</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1691634081471</updated>
     </task>
     <task id="LOCAL-00171" summary="실패율">
       <created>1691641303526</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695135378109</updated>
     </task>
-    <option name="localTasksCounter" value="219" />
+    <task id="LOCAL-00219" summary="1654) 랜선 자르기">
+      <created>1695198498650</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1695198498650</updated>
+    </task>
+    <option name="localTasksCounter" value="220" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1541) 잃어버린 괄호" />
     <MESSAGE value="1244) 스위치 켜고 끄기" />
     <MESSAGE value="1931) 회의실 배정" />
     <MESSAGE value="1697) 숨바꼭질" />
@@ -456,7 +455,8 @@
     <MESSAGE value="review 9655) 돌 게임" />
     <MESSAGE value="renamed" />
     <MESSAGE value="review 2193) 이친수" />
-    <option name="LAST_COMMIT_MESSAGE" value="review 2193) 이친수" />
+    <MESSAGE value="1654) 랜선 자르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="1654) 랜선 자르기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
