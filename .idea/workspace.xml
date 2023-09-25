@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2512) 예산">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/Q041.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2805) 나무 자르기">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/Q042.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00174" summary="뒤에 있는 큰 수 찾기">
-      <created>1691927883149</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1691927883149</updated>
     </task>
     <task id="LOCAL-00175" summary="숫자 문자열과 영단어">
       <created>1691930075146</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695477152424</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="2805) 나무 자르기">
+      <created>1695628805441</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1695628805441</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1092) 배" />
     <MESSAGE value="1992) 쿼드트리" />
     <MESSAGE value="11403) 경로 찾기" />
     <MESSAGE value="9655) 돌 게임" />
@@ -456,7 +455,8 @@
     <MESSAGE value="review 11726) 2 x n 타일링" />
     <MESSAGE value="1343) 폴리오미노" />
     <MESSAGE value="2512) 예산" />
-    <option name="LAST_COMMIT_MESSAGE" value="2512) 예산" />
+    <MESSAGE value="2805) 나무 자르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="2805) 나무 자르기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
