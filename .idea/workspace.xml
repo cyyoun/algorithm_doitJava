@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1343) 폴리오미노">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/Q040.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2512) 예산">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/Q041.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00173" summary="땅따먹기">
-      <created>1691922564607</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1691922564608</updated>
     </task>
     <task id="LOCAL-00174" summary="뒤에 있는 큰 수 찾기">
       <created>1691927883149</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695390858888</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="2512) 예산">
+      <created>1695477152424</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1695477152424</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1697) 숨바꼭질" />
     <MESSAGE value="1092) 배" />
     <MESSAGE value="1992) 쿼드트리" />
     <MESSAGE value="11403) 경로 찾기" />
@@ -456,7 +455,8 @@
     <MESSAGE value="1654) 랜선 자르기" />
     <MESSAGE value="review 11726) 2 x n 타일링" />
     <MESSAGE value="1343) 폴리오미노" />
-    <option name="LAST_COMMIT_MESSAGE" value="1343) 폴리오미노" />
+    <MESSAGE value="2512) 예산" />
+    <option name="LAST_COMMIT_MESSAGE" value="2512) 예산" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
