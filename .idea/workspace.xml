@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2110  공유기 설치">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/Q044.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2467) 용액">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/Q045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/Q046.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,26 +65,6 @@
       <recent name="secondReading" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Q044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.BinarySearch.Q044" />
-      <module name="algorithm_doitJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Q044" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00177" summary="11724) 연결 요소의 개수 구하기">
-      <created>1692243683181</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1692243683182</updated>
     </task>
     <task id="LOCAL-00178" summary="2023) 신기한 소수 찾기">
       <created>1692249365696</created>
@@ -436,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695711234530</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="2467) 용액">
+      <created>1695774957258</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1695774957258</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9655) 돌 게임" />
     <MESSAGE value="2193) 이친수" />
     <MESSAGE value="1904) 01타일" />
     <MESSAGE value="11726) 2 x n 타일링" />
@@ -476,7 +456,8 @@
     <MESSAGE value="2805) 나무 자르기" />
     <MESSAGE value="6236) 용돈 관리" />
     <MESSAGE value="2110) 공유기 설치" />
-    <option name="LAST_COMMIT_MESSAGE" value="2110) 공유기 설치" />
+    <MESSAGE value="2467) 용액" />
+    <option name="LAST_COMMIT_MESSAGE" value="2467) 용액" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
