@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="2979) 트럭 주차">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q049.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="8979) 올림픽">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q051.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00181" summary="2178) 미로 탐색하기">
-      <created>1692273783601</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1692273783601</updated>
     </task>
     <task id="LOCAL-00182" summary="3023 복습) 친구 관계 파악하기">
       <created>1692333513190</created>
@@ -416,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696427056216</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="8979) 올림픽">
+      <created>1696428507511</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1696428507511</updated>
+    </task>
+    <option name="localTasksCounter" value="231" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1699) 제곱수의 합" />
     <MESSAGE value="11055) 가장 큰 증가하는 부분 수열" />
     <MESSAGE value="9465)스티커" />
     <MESSAGE value="1912) 연속합" />
@@ -456,7 +456,8 @@
     <MESSAGE value="1300) k번째 수" />
     <MESSAGE value="2309) 일곱 난쟁이" />
     <MESSAGE value="2979) 트럭 주차" />
-    <option name="LAST_COMMIT_MESSAGE" value="2979) 트럭 주차" />
+    <MESSAGE value="8979) 올림픽" />
+    <option name="LAST_COMMIT_MESSAGE" value="8979) 올림픽" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -473,6 +474,11 @@
           <url>file://$PROJECT_DIR$/src/algorithm/Greedy/Q019.java</url>
           <line>54</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/Implementation/Q050.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
