@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1159) 농구경기">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1157) 단어공부">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q053.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q052.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/algorithm/Implementation/Q051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q051.java" afterDir="false" />
     </list>
@@ -74,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00183" summary="2178 복습) 미로 탐색하기">
-      <created>1692344929785</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1692344929785</updated>
     </task>
     <task id="LOCAL-00184" summary="18352) 특정 거리의 도시 찾기">
       <created>1692539689170</created>
@@ -418,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696585548519</updated>
     </task>
-    <option name="localTasksCounter" value="232" />
+    <task id="LOCAL-00232" summary="1157) 단어공부">
+      <created>1696586712376</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1696586712376</updated>
+    </task>
+    <option name="localTasksCounter" value="233" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9465)스티커" />
     <MESSAGE value="1912) 연속합" />
     <MESSAGE value="10844) 쉬운 계단 수" />
     <MESSAGE value="11057) 오르막 수" />
@@ -458,7 +457,8 @@
     <MESSAGE value="2979) 트럭 주차" />
     <MESSAGE value="8979) 올림픽" />
     <MESSAGE value="1159) 농구경기" />
-    <option name="LAST_COMMIT_MESSAGE" value="1159) 농구경기" />
+    <MESSAGE value="1157) 단어공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="1157) 단어공부" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
