@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="1157) 단어공부">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="lev2)영어끝말잇기">
       <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Q054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/lev2/멀리뛰기2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Q054.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q054.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,20 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00184" summary="18352) 특정 거리의 도시 찾기">
-      <created>1692539689170</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1692539689171</updated>
-    </task>
-    <task id="LOCAL-00185" summary="1325) 효율적으로 해킹하기">
-      <created>1692592092060</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1692592092061</updated>
     </task>
     <task id="LOCAL-00186" summary="2251) 물의 양 구하기">
       <created>1692858212677</created>
@@ -417,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696586712376</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="1012) 유기농 배추">
+      <created>1696770750509</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1696770750509</updated>
+    </task>
+    <task id="LOCAL-00234" summary="lev2)영어끝말잇기">
+      <created>1696836354058</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1696836354058</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,8 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1912) 연속합" />
-    <MESSAGE value="10844) 쉬운 계단 수" />
     <MESSAGE value="11057) 오르막 수" />
     <MESSAGE value="1205) 등수 구하기" />
     <MESSAGE value="1149) RGB 거리" />
@@ -457,7 +456,9 @@
     <MESSAGE value="8979) 올림픽" />
     <MESSAGE value="1159) 농구경기" />
     <MESSAGE value="1157) 단어공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="1157) 단어공부" />
+    <MESSAGE value="1012) 유기농 배추" />
+    <MESSAGE value="lev2)영어끝말잇기" />
+    <option name="LAST_COMMIT_MESSAGE" value="lev2)영어끝말잇기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
