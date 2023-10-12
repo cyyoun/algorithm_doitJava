@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="lev2)멀리뛰기">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/lev2/최댓값최솟값.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Q054.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q054.java" afterDir="false" />
-    </list>
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="최댓값최솟값" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,13 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00187" summary="17413) 단어 뒤집기 2">
-      <created>1692864494110</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1692864494110</updated>
     </task>
     <task id="LOCAL-00188" summary="2578) 빙고">
       <created>1692876475659</created>
@@ -418,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696942803805</updated>
     </task>
-    <option name="localTasksCounter" value="236" />
+    <task id="LOCAL-00236" summary="최댓값최솟값">
+      <created>1697114162141</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1697114162142</updated>
+    </task>
+    <option name="localTasksCounter" value="237" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1205) 등수 구하기" />
     <MESSAGE value="1149) RGB 거리" />
     <MESSAGE value="15989) 1, 2, 3 더하기 4" />
     <MESSAGE value="2293) 동전 1" />
@@ -458,7 +452,8 @@
     <MESSAGE value="1012) 유기농 배추" />
     <MESSAGE value="lev2)영어끝말잇기" />
     <MESSAGE value="lev2)멀리뛰기" />
-    <option name="LAST_COMMIT_MESSAGE" value="lev2)멀리뛰기" />
+    <MESSAGE value="최댓값최솟값" />
+    <option name="LAST_COMMIT_MESSAGE" value="최댓값최솟값" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
