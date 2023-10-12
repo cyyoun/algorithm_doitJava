@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="lev2)영어끝말잇기">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="lev2)멀리뛰기">
       <change afterPath="$PROJECT_DIR$/src/algorithm/Implementation/Q050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/lev2/멀리뛰기2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/lev2/최댓값최솟값.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/algorithm/Q054.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q054.java" afterDir="false" />
     </list>
@@ -74,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00186" summary="2251) 물의 양 구하기">
-      <created>1692858212677</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1692858212677</updated>
     </task>
     <task id="LOCAL-00187" summary="17413) 단어 뒤집기 2">
       <created>1692864494110</created>
@@ -418,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696836354058</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="lev2)멀리뛰기">
+      <created>1696942803805</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1696942803805</updated>
+    </task>
+    <option name="localTasksCounter" value="236" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11057) 오르막 수" />
     <MESSAGE value="1205) 등수 구하기" />
     <MESSAGE value="1149) RGB 거리" />
     <MESSAGE value="15989) 1, 2, 3 더하기 4" />
@@ -458,7 +457,8 @@
     <MESSAGE value="1157) 단어공부" />
     <MESSAGE value="1012) 유기농 배추" />
     <MESSAGE value="lev2)영어끝말잇기" />
-    <option name="LAST_COMMIT_MESSAGE" value="lev2)영어끝말잇기" />
+    <MESSAGE value="lev2)멀리뛰기" />
+    <option name="LAST_COMMIT_MESSAGE" value="lev2)멀리뛰기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
