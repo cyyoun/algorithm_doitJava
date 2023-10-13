@@ -21,4 +21,26 @@ public class 구명보트 {
         }
         return answer;
     }
+
+    public int solution2(int[] people, int limit) {
+
+        Arrays.sort(people);
+        int left = 0;
+        int right = people.length - 1;
+        int cnt = 0;
+
+        while (left <= right) {
+            int sum = people[left] + people[right];
+            if (sum <= limit) {
+                left++;
+                right--;
+                cnt++;
+            } else {
+                right--;
+                cnt++;
+            }
+        }
+
+        return cnt;
+    }
 }

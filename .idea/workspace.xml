@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="최댓값최솟값" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="올바른괄호">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +71,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00188" summary="2578) 빙고">
-      <created>1692876475659</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1692876475659</updated>
     </task>
     <task id="LOCAL-00189" summary="1167) 트리의 지름 구하기">
       <created>1692884743949</created>
@@ -413,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697114162142</updated>
     </task>
-    <option name="localTasksCounter" value="237" />
+    <task id="LOCAL-00237" summary="올바른괄호">
+      <created>1697114818043</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1697114818043</updated>
+    </task>
+    <option name="localTasksCounter" value="238" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1149) RGB 거리" />
     <MESSAGE value="15989) 1, 2, 3 더하기 4" />
     <MESSAGE value="2293) 동전 1" />
     <MESSAGE value="14719) 빗물" />
@@ -453,7 +454,8 @@
     <MESSAGE value="lev2)영어끝말잇기" />
     <MESSAGE value="lev2)멀리뛰기" />
     <MESSAGE value="최댓값최솟값" />
-    <option name="LAST_COMMIT_MESSAGE" value="최댓값최솟값" />
+    <MESSAGE value="올바른괄호" />
+    <option name="LAST_COMMIT_MESSAGE" value="올바른괄호" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
