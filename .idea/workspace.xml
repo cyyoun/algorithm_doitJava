@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="구명보트">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="행렬의곱셈" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,13 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00190" summary="17413 복습) 단어 뒤집기 2">
-      <created>1692972179990</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1692972179990</updated>
     </task>
     <task id="LOCAL-00191" summary="11508) 2+1 세일">
       <created>1693026522350</created>
@@ -415,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697179087189</updated>
     </task>
-    <option name="localTasksCounter" value="239" />
+    <task id="LOCAL-00239" summary="행렬의곱셈">
+      <created>1697377221773</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1697377221773</updated>
+    </task>
+    <option name="localTasksCounter" value="240" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2293) 동전 1" />
     <MESSAGE value="14719) 빗물" />
     <MESSAGE value="review 9655) 돌 게임" />
     <MESSAGE value="renamed" />
@@ -455,7 +452,8 @@
     <MESSAGE value="최댓값최솟값" />
     <MESSAGE value="올바른괄호" />
     <MESSAGE value="구명보트" />
-    <option name="LAST_COMMIT_MESSAGE" value="구명보트" />
+    <MESSAGE value="행렬의곱셈" />
+    <option name="LAST_COMMIT_MESSAGE" value="행렬의곱셈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
