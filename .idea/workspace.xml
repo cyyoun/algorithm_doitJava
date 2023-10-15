@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="올바른괄호">
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="구명보트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +71,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00189" summary="1167) 트리의 지름 구하기">
-      <created>1692884743949</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1692884743949</updated>
     </task>
     <task id="LOCAL-00190" summary="17413 복습) 단어 뒤집기 2">
       <created>1692972179990</created>
@@ -415,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697114818043</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="구명보트">
+      <created>1697179087188</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1697179087189</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="15989) 1, 2, 3 더하기 4" />
     <MESSAGE value="2293) 동전 1" />
     <MESSAGE value="14719) 빗물" />
     <MESSAGE value="review 9655) 돌 게임" />
@@ -455,7 +454,8 @@
     <MESSAGE value="lev2)멀리뛰기" />
     <MESSAGE value="최댓값최솟값" />
     <MESSAGE value="올바른괄호" />
-    <option name="LAST_COMMIT_MESSAGE" value="올바른괄호" />
+    <MESSAGE value="구명보트" />
+    <option name="LAST_COMMIT_MESSAGE" value="구명보트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
