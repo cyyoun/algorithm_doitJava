@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="n제곱배열자르기">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q055.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="12865) 평범한 배낭">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q056.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/programmers/lev2/n제곱배열자르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/n제곱배열자르기.java" afterDir="false" />
     </list>
@@ -73,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00192" summary="2644) 촌수계산">
-      <created>1693028744490</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1693028744490</updated>
     </task>
     <task id="LOCAL-00193" summary="1541) 잃어버린 괄호">
       <created>1693032189335</created>
@@ -417,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697379843406</updated>
     </task>
-    <option name="localTasksCounter" value="241" />
+    <task id="LOCAL-00241" summary="12865) 평범한 배낭">
+      <created>1697520030678</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1697520030678</updated>
+    </task>
+    <option name="localTasksCounter" value="242" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="review 9655) 돌 게임" />
     <MESSAGE value="renamed" />
     <MESSAGE value="review 2193) 이친수" />
     <MESSAGE value="1654) 랜선 자르기" />
@@ -457,7 +456,8 @@
     <MESSAGE value="구명보트" />
     <MESSAGE value="행렬의곱셈" />
     <MESSAGE value="n제곱배열자르기" />
-    <option name="LAST_COMMIT_MESSAGE" value="n제곱배열자르기" />
+    <MESSAGE value="12865) 평범한 배낭" />
+    <option name="LAST_COMMIT_MESSAGE" value="12865) 평범한 배낭" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
