@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="12865) 평범한 배낭">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/DP/Q056.java" afterDir="false" />
+    <list default="true" id="0bb90fd0-4de5-41da-a2f1-26deae12f474" name="Changes" comment="16500) 문자열 판별">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/DFS_BFS/Q057.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/programmers/lev2/n제곱배열자르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lev2/n제곱배열자르기.java" afterDir="false" />
     </list>
@@ -53,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/study/gomoku&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/_Inflean/study/study_mvc2/exception/build.gradle&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -73,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683524190639</updated>
-    </task>
-    <task id="LOCAL-00193" summary="1541) 잃어버린 괄호">
-      <created>1693032189335</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1693032189335</updated>
     </task>
     <task id="LOCAL-00194" summary="1244) 스위치 켜고 끄기">
       <created>1693211044632</created>
@@ -417,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697520030678</updated>
     </task>
-    <option name="localTasksCounter" value="242" />
+    <task id="LOCAL-00242" summary="16500) 문자열 판별">
+      <created>1697547249843</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1697547249844</updated>
+    </task>
+    <option name="localTasksCounter" value="243" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="renamed" />
     <MESSAGE value="review 2193) 이친수" />
     <MESSAGE value="1654) 랜선 자르기" />
     <MESSAGE value="review 11726) 2 x n 타일링" />
@@ -457,7 +456,8 @@
     <MESSAGE value="행렬의곱셈" />
     <MESSAGE value="n제곱배열자르기" />
     <MESSAGE value="12865) 평범한 배낭" />
-    <option name="LAST_COMMIT_MESSAGE" value="12865) 평범한 배낭" />
+    <MESSAGE value="16500) 문자열 판별" />
+    <option name="LAST_COMMIT_MESSAGE" value="16500) 문자열 판별" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
